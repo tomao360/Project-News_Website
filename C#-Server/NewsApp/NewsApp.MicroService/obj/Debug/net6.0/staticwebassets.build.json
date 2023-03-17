@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bFTxIDOX4I11hDrjqeKKECkIpnweiYIpTH4wcWTOAnQ=",
+  "Source": "NewsApp.MicroService",
+  "BasePath": "_content/NewsApp.MicroService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

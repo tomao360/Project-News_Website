@@ -1,0 +1,370 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Entities.Test\\NewsApp.Entities.Test.csproj": {}
+  },
+  "projects": {
+    "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.DAL\\NewsApp.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.DAL\\NewsApp.DAL.csproj",
+        "projectName": "NewsApp.DAL",
+        "projectPath": "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.DAL\\NewsApp.DAL.csproj",
+        "packagesPath": "C:\\Users\\97252\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\97252\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Data.Sql\\NewsApp.Data.Sql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Data.Sql\\NewsApp.Data.Sql.csproj",
+        "projectName": "NewsApp.Data.Sql",
+        "projectPath": "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Data.Sql\\NewsApp.Data.Sql.csproj",
+        "packagesPath": "C:\\Users\\97252\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Data.Sql\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\97252\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.DAL\\NewsApp.DAL.csproj": {
+                "projectPath": "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.DAL\\NewsApp.DAL.csproj"
+              },
+              "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Model\\NewsApp.Model.csproj": {
+                "projectPath": "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Model\\NewsApp.Model.csproj"
+              },
+              "D:\\Programming\\Zionet\\PromoIt_Project - Semester_2_Project\\Utilities\\Utilities\\Utilities.csproj": {
+                "projectPath": "D:\\Programming\\Zionet\\PromoIt_Project - Semester_2_Project\\Utilities\\Utilities\\Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Entities.Test\\NewsApp.Entities.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Entities.Test\\NewsApp.Entities.Test.csproj",
+        "projectName": "NewsApp.Entities.Test",
+        "projectPath": "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Entities.Test\\NewsApp.Entities.Test.csproj",
+        "packagesPath": "C:\\Users\\97252\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Entities.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\97252\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Entities\\NewsApp.Entities.csproj": {
+                "projectPath": "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Entities\\NewsApp.Entities.csproj"
+              },
+              "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Model\\NewsApp.Model.csproj": {
+                "projectPath": "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Model\\NewsApp.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Entities\\NewsApp.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Entities\\NewsApp.Entities.csproj",
+        "projectName": "NewsApp.Entities",
+        "projectPath": "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Entities\\NewsApp.Entities.csproj",
+        "packagesPath": "C:\\Users\\97252\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\97252\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Data.Sql\\NewsApp.Data.Sql.csproj": {
+                "projectPath": "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Data.Sql\\NewsApp.Data.Sql.csproj"
+              },
+              "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Model\\NewsApp.Model.csproj": {
+                "projectPath": "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Model\\NewsApp.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.46, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Model\\NewsApp.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Model\\NewsApp.Model.csproj",
+        "projectName": "NewsApp.Model",
+        "projectPath": "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Model\\NewsApp.Model.csproj",
+        "packagesPath": "C:\\Users\\97252\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\97252\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programming\\Zionet\\PromoIt_Project - Semester_2_Project\\Utilities\\Utilities\\Utilities.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\Zionet\\PromoIt_Project - Semester_2_Project\\Utilities\\Utilities\\Utilities.csproj",
+        "projectName": "Utilities",
+        "projectPath": "D:\\Programming\\Zionet\\PromoIt_Project - Semester_2_Project\\Utilities\\Utilities\\Utilities.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

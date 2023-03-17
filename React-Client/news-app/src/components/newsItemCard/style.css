@@ -1,0 +1,17 @@
+.logo-image {
+  height: 50px !important;
+  width: 170px !important;
+}
+
+.card-container {
+  max-width: 400px !important;
+  min-width: 400px !important;
+  max-height: 450px !important;
+  min-height: 450px !important;
+  overflow-y: auto !important;
+}
+
+.link-card {
+  color: black;
+  margin: 0 auto;
+}

@@ -1,0 +1,22 @@
+.category-image {
+  height: 150px !important;
+  width: 200 !important;
+}
+
+.main-category-container {
+  text-align: center;
+  background-color: rgb(95, 95, 95);
+  color: white;
+}
+
+.category-container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 5px;
+  width: 70vw;
+  margin: 0 auto;
+}
+
+.categories-button {
+  margin-top: 20px;
+}

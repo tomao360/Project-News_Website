@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\NewsApp.Data.Sql",
+    "\\NewsApp.Entities",
+    "\\NewsApp.Entities\\NewsSources",
+    "\\NewsApp.Entities\\NewsSources\\NewSourcesXML",
+    "\\NewsApp.MicroService",
+    "\\NewsApp.MicroService\\Controllers"
+  ],
+  "SelectedNode": "\\NewsApp.MicroService\\Controllers\\NewsItemsController.cs",
+  "PreviewInSolutionExplorer": false
+}

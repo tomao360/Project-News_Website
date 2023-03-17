@@ -1,0 +1,12 @@
+.app {
+  text-align: center;
+  background-color: rgb(95, 95, 95);
+  color: white;
+}
+
+.spinner-app {
+  height: 100vh !important;
+  display: flex !important;
+  justify-content: center !important;
+  color: white !important;
+}

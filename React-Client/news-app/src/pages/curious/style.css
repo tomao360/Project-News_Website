@@ -1,0 +1,9 @@
+.curious-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  margin-bottom: 50px;
+  gap: 10px;
+}

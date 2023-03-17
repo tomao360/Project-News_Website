@@ -1,0 +1,13 @@
+.popular-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  gap: 10px;
+  margin-bottom: 50px;
+}
+
+.not-found-p {
+  color: #f10000;
+}
