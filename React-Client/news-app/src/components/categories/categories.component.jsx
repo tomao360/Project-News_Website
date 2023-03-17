@@ -11,11 +11,9 @@ import { emailState } from "./../../state/email";
 import { getCategories } from "./../../services/news.items.services";
 import { addUserCategoriesToDb } from "../../services/users.services";
 import { toastSuccess } from "../../constant/toastify";
-import { HomePage } from "../../pages";
+import { AppRoutes } from "../../components";
 
 import "./style.css";
-import { Main } from "./../main/main.component";
-import { AppRoutes } from "./../appRoutes/app.routes.component";
 
 export const Categories = (props) => {
   const email = useRecoilValue(emailState);
@@ -70,7 +68,7 @@ export const Categories = (props) => {
     toastSuccess("The categories saved sucessfully");
   };
 
-  //render the HomePage component if adding user categories is successful
+  //render the AppRoutes component if adding user categories is successful
   if (addSuccess === true) return <AppRoutes />;
 
   return (

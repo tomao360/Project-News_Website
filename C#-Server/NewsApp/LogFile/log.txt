@@ -17244,3 +17244,862 @@ The statement has been terminated.
 3/17/2023 4:13:53 AM: Event: Inserts a Data Table that contains 10 articles in the 'מדע וסביבה' category on the '!וואלה' website into the database
 3/17/2023 4:13:53 AM: Event: Inserts a Data Table that contains 10 articles in the 'הורים' category on the '!וואלה' website into the database
 3/17/2023 4:13:53 AM: Event: Inserts a Data Table that contains 10 articles in the 'רכילות' category on the '!וואלה' website into the database
+3/17/2023 11:30:20 AM: Event: Starting to receive information from the 'Globes' news site
+3/17/2023 11:30:20 AM: Event: Starting to receive information from the 'Walla' news site
+3/17/2023 11:30:20 AM: Event: Starting to receive information from the 'Maariv' news site
+3/17/2023 11:30:20 AM: Event: Starting to receive information from the 'Walla' news site
+3/17/2023 11:30:20 AM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 11:30:27 AM: Event: All the Users were received successfully from DB
+3/17/2023 11:30:27 AM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 11:30:27 AM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 11:30:27 AM: Event: All the Users were received successfully from DB
+3/17/2023 11:30:28 AM: Event: Inserts a Data Table that contains 10 articles in the 'מבזקי חדשות' category on the 'ynet' website into the database
+3/17/2023 11:30:28 AM: Event: Inserts a Data Table that contains 10 articles in the 'כלכלה' category on the '!וואלה' website into the database
+3/17/2023 11:30:28 AM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+3/17/2023 11:30:29 AM: Event: Inserts a Data Table that contains 10 articles in the 'טכנולוגיה' category on the '!וואלה' website into the database
+3/17/2023 11:30:29 AM: Event: Inserts a Data Table that contains 10 articles in the 'חדשות מהארץ ומהעולם' category on the 'ynet' website into the database
+3/17/2023 11:30:29 AM: Event: Inserts a Data Table that contains 10 articles in the 'דעות' category on the '!וואלה' website into the database
+3/17/2023 11:30:29 AM: Event: Inserts a Data Table that contains 10 articles in the 'תיירות' category on the 'גלובס' website into the database
+3/17/2023 11:30:30 AM: Event: Inserts a Data Table that contains 10 articles in the 'אוכל' category on the '!וואלה' website into the database
+3/17/2023 11:30:30 AM: Event: Inserts a Data Table that contains 10 articles in the 'כלכלה' category on the 'ynet' website into the database
+3/17/2023 11:30:30 AM: Event: Inserts a Data Table that contains 10 articles in the 'תיירות' category on the '!וואלה' website into the database
+3/17/2023 11:30:30 AM: Event: Inserts a Data Table that contains 10 articles in the 'כלכלה' category on the 'גלובס' website into the database
+3/17/2023 11:30:30 AM: Event: Inserts a Data Table that contains 10 articles in the 'צרכנות' category on the 'גלובס' website into the database
+3/17/2023 11:30:30 AM: Event: Inserts a Data Table that contains 10 articles in the 'תיירות' category on the 'ynet' website into the database
+3/17/2023 11:30:30 AM: Event: Inserts a Data Table that contains 10 articles in the 'צרכנות' category on the '!וואלה' website into the database
+3/17/2023 11:30:30 AM: Event: Inserts a Data Table that contains 10 articles in the 'הורים' category on the 'ynet' website into the database
+3/17/2023 11:30:30 AM: Event: Inserts a Data Table that contains 10 articles in the 'בריאות' category on the '!וואלה' website into the database
+3/17/2023 11:30:30 AM: Event: Inserts a Data Table that contains 10 articles in the 'צרכנות' category on the 'ynet' website into the database
+3/17/2023 11:30:30 AM: Event: Inserts a Data Table that contains 10 articles in the 'תרבות' category on the '!וואלה' website into the database
+3/17/2023 11:30:30 AM: Event: Inserts a Data Table that contains 10 articles in the 'ספורט' category on the 'ynet' website into the database
+3/17/2023 11:30:30 AM: Event: Inserts a Data Table that contains 10 articles in the 'רכילות' category on the '!וואלה' website into the database
+3/17/2023 11:30:30 AM: Event: Inserts a Data Table that contains 10 articles in the 'דעות' category on the 'ynet' website into the database
+3/17/2023 11:30:30 AM: Event: Inserts a Data Table that contains 10 articles in the 'אוכל' category on the 'ynet' website into the database
+3/17/2023 11:30:30 AM: Event: Inserts a Data Table that contains 10 articles in the 'מבזקי חדשות' category on the '!וואלה' website into the database
+3/17/2023 11:30:30 AM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 11:30:30 AM: Event: Inserts a Data Table that contains 10 articles in the 'רכב' category on the '!וואלה' website into the database
+3/17/2023 11:30:30 AM: Event: Inserts a Data Table that contains 10 articles in the 'מדע וסביבה' category on the 'ynet' website into the database
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'טכנולוגיה' category on the 'ynet' website into the database
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'ספורט' category on the '!וואלה' website into the database
+3/17/2023 11:30:31 AM: Exception:  System.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated in table 'tempdb.dbo.#B7361F9E', column 'Image'. Truncated value: 'https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800%2A392/v167863322'.
+The data for table-valued parameter "@newsItems" doesn't conform to the table type of the parameter. SQL Server error is: 2628, state: 1
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at NewsApp.Data.Sql.NewsItemSql.InsertNewsItemToDB(DataTable dataTable) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\NewsItemSql.cs:line 97
+   at NewsApp.Entities.NewsSources.NewSourcesXML.GlobesNewsSource.InsertNewsArticleToDB(DataTable dataTable) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsSources\NewSourcesXML\GlobesNewsSource.cs:line 79
+   at NewsApp.Entities.NewsSources.NewSourcesXML.GlobesNewsSource.GetNewsArticleItems(String url, String categoryName, String sourceName) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsSources\NewSourcesXML\GlobesNewsSource.cs:line 134
+ClientConnectionId:e4bf4e1c-dbac-43ca-960d-36894be5bf44
+Error Number:2628,State:1,Class:16-String or binary data would be truncated in table 'tempdb.dbo.#B7361F9E', column 'Image'. Truncated value: 'https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800%2A392/v167863322'.
+The data for table-valued parameter "@newsItems" doesn't conform to the table type of the parameter. SQL Server error is: 2628, state: 1
+The statement has been terminated.
+3/17/2023 11:30:31 AM: Exception:  System.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated in table 'tempdb.dbo.#B7361F9E', column 'Image'. Truncated value: 'https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800%2A392/v167863322'.
+The data for table-valued parameter "@newsItems" doesn't conform to the table type of the parameter. SQL Server error is: 2628, state: 1
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at NewsApp.Data.Sql.NewsItemSql.InsertNewsItemToDB(DataTable dataTable) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\NewsItemSql.cs:line 97
+   at NewsApp.Entities.NewsSources.NewSourcesXML.GlobesNewsSource.InsertNewsArticleToDB(DataTable dataTable) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsSources\NewSourcesXML\GlobesNewsSource.cs:line 79
+   at NewsApp.Entities.NewsSources.NewSourcesXML.GlobesNewsSource.GetNewsArticleItems(String url, String categoryName, String sourceName) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsSources\NewSourcesXML\GlobesNewsSource.cs:line 134
+ClientConnectionId:e4bf4e1c-dbac-43ca-960d-36894be5bf44
+Error Number:2628,State:1,Class:16-String or binary data would be truncated in table 'tempdb.dbo.#B7361F9E', column 'Image'. Truncated value: 'https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800%2A392/v167863322'.
+The data for table-valued parameter "@newsItems" doesn't conform to the table type of the parameter. SQL Server error is: 2628, state: 1
+The statement has been terminated.
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'דעות' category on the 'מעריב' website into the database
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'רכב' category on the 'גלובס' website into the database
+3/17/2023 11:30:31 AM: Exception:  System.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated in table 'tempdb.dbo.#B7361F9E', column 'Image'. Truncated value: 'https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800%2A392/v167863322'.
+The data for table-valued parameter "@newsItems" doesn't conform to the table type of the parameter. SQL Server error is: 2628, state: 1
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at NewsApp.Data.Sql.NewsItemSql.InsertNewsItemToDB(DataTable dataTable) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\NewsItemSql.cs:line 97
+   at NewsApp.Entities.NewsSources.NewSourcesXML.GlobesNewsSource.InsertNewsArticleToDB(DataTable dataTable) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsSources\NewSourcesXML\GlobesNewsSource.cs:line 79
+   at NewsApp.Entities.NewsSources.NewSourcesXML.GlobesNewsSource.GetNewsArticleItems(String url, String categoryName, String sourceName) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsSources\NewSourcesXML\GlobesNewsSource.cs:line 134
+ClientConnectionId:e4bf4e1c-dbac-43ca-960d-36894be5bf44
+Error Number:2628,State:1,Class:16-String or binary data would be truncated in table 'tempdb.dbo.#B7361F9E', column 'Image'. Truncated value: 'https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800%2A392/v167863322'.
+The data for table-valued parameter "@newsItems" doesn't conform to the table type of the parameter. SQL Server error is: 2628, state: 1
+The statement has been terminated.
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'רכב' category on the 'ynet' website into the database
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'מדע וסביבה' category on the '!וואלה' website into the database
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'תרבות' category on the 'ynet' website into the database
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'חדשות מהארץ ומהעולם' category on the '!וואלה' website into the database
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'מדע וסביבה' category on the 'מעריב' website into the database
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'בריאות' category on the 'ynet' website into the database
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'הורים' category on the '!וואלה' website into the database
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'חדשות מהארץ ומהעולם' category on the 'מעריב' website into the database
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'כלכלה' category on the 'מעריב' website into the database
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'תרבות' category on the 'מעריב' website into the database
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'אוכל' category on the 'מעריב' website into the database
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'רכב' category on the 'מעריב' website into the database
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'טכנולוגיה' category on the 'גלובס' website into the database
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'בריאות' category on the 'מעריב' website into the database
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'חדשות מהארץ ומהעולם' category on the 'גלובס' website into the database
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'מבזקי חדשות' category on the 'מעריב' website into the database
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'ספורט' category on the 'מעריב' website into the database
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'רכילות' category on the 'מעריב' website into the database
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'תיירות' category on the 'מעריב' website into the database
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'צרכנות' category on the 'מעריב' website into the database
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'הורים' category on the 'מעריב' website into the database
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'טכנולוגיה' category on the 'מעריב' website into the database
+3/17/2023 11:30:31 AM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+3/17/2023 11:30:31 AM: Event: Inserts a Data Table that contains 10 articles in the 'דעות' category on the 'גלובס' website into the database
+3/17/2023 11:34:35 AM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 11:34:35 AM: Event: All the Users were received successfully from DB
+3/17/2023 11:34:35 AM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 11:34:35 AM: Event: All the Users were received successfully from DB
+3/17/2023 11:34:46 AM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 11:34:46 AM: Event: All the categories were received successfully from DB
+3/17/2023 11:34:46 AM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 11:34:46 AM: Event: All the categories were received successfully from DB
+3/17/2023 11:34:52 AM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 11:34:52 AM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+3/17/2023 11:34:52 AM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 11:34:52 AM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+3/17/2023 11:35:00 AM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 11:35:00 AM: Event: 10 most popular News Items from the user categories were received successfully from DB
+3/17/2023 11:35:00 AM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 11:35:00 AM: Event: 10 most popular News Items from the user categories were received successfully from DB
+3/17/2023 11:35:15 AM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 11:35:15 AM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+3/17/2023 11:35:15 AM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 11:35:15 AM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+3/17/2023 11:35:39 AM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 11:35:39 AM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+3/17/2023 11:35:39 AM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 11:35:39 AM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+3/17/2023 11:42:34 AM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 11:42:35 AM: Event: All the Users were received successfully from DB
+3/17/2023 11:42:35 AM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 11:42:35 AM: Event: All the Users were received successfully from DB
+3/17/2023 11:42:35 AM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 11:42:35 AM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+3/17/2023 11:42:35 AM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 11:42:35 AM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+3/17/2023 11:43:02 AM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 11:43:02 AM: Event: All the categories were received successfully from DB
+3/17/2023 11:43:02 AM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 11:43:02 AM: Event: All the categories were received successfully from DB
+3/17/2023 11:44:30 AM: Event: Started inserting a User categories for a user with the email: tomao360@gmail.com into the DB ('InsertUserCategoriesToDb' function in 'UsersController' class)
+3/17/2023 11:44:31 AM: Event: The User Categories for the user with the email: tomao360@gmail.com were inserted successfully into the database
+3/17/2023 11:44:31 AM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 11:44:31 AM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+3/17/2023 11:44:31 AM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 11:44:31 AM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+3/17/2023 11:45:14 AM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 11:45:14 AM: Event: All the categories were received successfully from DB
+3/17/2023 11:45:14 AM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 11:45:14 AM: Event: All the categories were received successfully from DB
+3/17/2023 11:45:17 AM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 11:45:17 AM: Event: 10 most popular News Items from the user categories were received successfully from DB
+3/17/2023 11:45:17 AM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 11:45:17 AM: Event: 10 most popular News Items from the user categories were received successfully from DB
+3/17/2023 11:45:18 AM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 11:45:18 AM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+3/17/2023 11:45:18 AM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 11:45:18 AM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+3/17/2023 11:45:19 AM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 11:45:19 AM: Event: All the categories were received successfully from DB
+3/17/2023 11:45:19 AM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 11:45:19 AM: Event: All the categories were received successfully from DB
+3/17/2023 11:47:10 AM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 11:47:10 AM: Event: All the Users were received successfully from DB
+3/17/2023 11:47:10 AM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 11:47:10 AM: Event: All the Users were received successfully from DB
+3/17/2023 11:47:10 AM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 11:47:10 AM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+3/17/2023 11:47:10 AM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 11:47:10 AM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+3/17/2023 11:47:13 AM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 11:47:13 AM: Event: 10 most popular News Items from the user categories were received successfully from DB
+3/17/2023 11:47:13 AM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 11:47:13 AM: Event: 10 most popular News Items from the user categories were received successfully from DB
+3/17/2023 11:47:14 AM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 11:47:14 AM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+3/17/2023 11:47:14 AM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 11:47:14 AM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+3/17/2023 11:47:22 AM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 11:47:22 AM: Event: All the categories were received successfully from DB
+3/17/2023 11:47:22 AM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 11:47:22 AM: Event: All the categories were received successfully from DB
+3/17/2023 11:47:24 AM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 11:47:24 AM: Event: 10 most popular News Items from the user categories were received successfully from DB
+3/17/2023 11:47:24 AM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 11:47:24 AM: Event: 10 most popular News Items from the user categories were received successfully from DB
+3/17/2023 11:47:54 AM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 11:47:54 AM: Event: All the Users were received successfully from DB
+3/17/2023 11:47:54 AM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 11:47:54 AM: Event: All the Users were received successfully from DB
+3/17/2023 11:47:59 AM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 11:47:59 AM: Event: All the categories were received successfully from DB
+3/17/2023 11:47:59 AM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 11:47:59 AM: Event: All the categories were received successfully from DB
+3/17/2023 11:51:14 AM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 11:51:14 AM: Event: All the categories were received successfully from DB
+3/17/2023 11:51:14 AM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 11:51:14 AM: Event: All the categories were received successfully from DB
+3/17/2023 11:51:40 AM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 11:51:40 AM: Event: All the Users were received successfully from DB
+3/17/2023 11:51:40 AM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 11:51:40 AM: Event: All the Users were received successfully from DB
+3/17/2023 11:52:01 AM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 11:52:01 AM: Event: All the Users were received successfully from DB
+3/17/2023 11:52:01 AM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 11:52:01 AM: Event: All the Users were received successfully from DB
+3/17/2023 11:52:12 AM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 11:52:12 AM: Event: All the Users were received successfully from DB
+3/17/2023 11:52:12 AM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 11:52:12 AM: Event: All the Users were received successfully from DB
+3/17/2023 11:52:31 AM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 11:52:31 AM: Event: All the Users were received successfully from DB
+3/17/2023 11:52:31 AM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 11:52:31 AM: Event: All the Users were received successfully from DB
+3/17/2023 11:52:31 AM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 11:52:31 AM: Event: All the categories were received successfully from DB
+3/17/2023 11:52:31 AM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 11:52:31 AM: Event: All the categories were received successfully from DB
+3/17/2023 11:54:23 AM: Event: Started inserting a User categories for a user with the email: tomao360@gmail.com into the DB ('InsertUserCategoriesToDb' function in 'UsersController' class)
+3/17/2023 11:54:23 AM: Event: The User Categories for the user with the email: tomao360@gmail.com were inserted successfully into the database
+3/17/2023 11:54:23 AM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 11:54:23 AM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+3/17/2023 11:54:23 AM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 11:54:23 AM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+3/17/2023 11:54:26 AM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 11:54:26 AM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+3/17/2023 11:54:26 AM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 11:54:26 AM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+3/17/2023 12:00:29 PM: Event: Inserts a Data Table that contains 10 articles in the 'מבזקי חדשות' category on the 'ynet' website into the database
+3/17/2023 12:00:31 PM: Event: Inserts a Data Table that contains 10 articles in the 'מבזקי חדשות' category on the '!וואלה' website into the database
+3/17/2023 12:00:34 PM: Event: Inserts a Data Table that contains 10 articles in the 'חדשות מהארץ ומהעולם' category on the 'מעריב' website into the database
+3/17/2023 12:00:35 PM: Event: Inserts a Data Table that contains 10 articles in the 'רכב' category on the 'גלובס' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'טכנולוגיה' category on the 'מעריב' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'כלכלה' category on the 'גלובס' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'טכנולוגיה' category on the 'ynet' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'חדשות מהארץ ומהעולם' category on the 'גלובס' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'תיירות' category on the '!וואלה' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'תרבות' category on the 'ynet' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'בריאות' category on the '!וואלה' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'בריאות' category on the 'ynet' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'רכב' category on the '!וואלה' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'כלכלה' category on the 'ynet' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'טכנולוגיה' category on the '!וואלה' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'ספורט' category on the 'ynet' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'חדשות מהארץ ומהעולם' category on the 'ynet' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'צרכנות' category on the 'ynet' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'מדע וסביבה' category on the 'ynet' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'אוכל' category on the 'ynet' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'רכב' category on the 'ynet' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'הורים' category on the 'ynet' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'תרבות' category on the '!וואלה' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'דעות' category on the 'ynet' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'תרבות' category on the 'מעריב' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'תיירות' category on the 'מעריב' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'כלכלה' category on the '!וואלה' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'טכנולוגיה' category on the 'גלובס' website into the database
+3/17/2023 12:00:38 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'מדע וסביבה' category on the '!וואלה' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'כלכלה' category on the 'מעריב' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'צרכנות' category on the 'גלובס' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'רכילות' category on the 'מעריב' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'ספורט' category on the 'מעריב' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'הורים' category on the 'מעריב' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'חדשות מהארץ ומהעולם' category on the '!וואלה' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'מדע וסביבה' category on the 'מעריב' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'צרכנות' category on the '!וואלה' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'דעות' category on the 'מעריב' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'אוכל' category on the 'מעריב' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'הורים' category on the '!וואלה' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'רכילות' category on the '!וואלה' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'רכב' category on the 'מעריב' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'בריאות' category on the 'מעריב' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'דעות' category on the '!וואלה' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'צרכנות' category on the 'מעריב' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'ספורט' category on the '!וואלה' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'מבזקי חדשות' category on the 'מעריב' website into the database
+3/17/2023 12:00:38 PM: Event: Inserts a Data Table that contains 10 articles in the 'אוכל' category on the '!וואלה' website into the database
+3/17/2023 12:00:39 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+3/17/2023 12:00:39 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:00:39 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+3/17/2023 12:00:40 PM: Exception:  System.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated in table 'tempdb.dbo.#BED74166', column 'Image'. Truncated value: 'https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800%2A392/v167863322'.
+The data for table-valued parameter "@newsItems" doesn't conform to the table type of the parameter. SQL Server error is: 2628, state: 1
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at NewsApp.Data.Sql.NewsItemSql.InsertNewsItemToDB(DataTable dataTable) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\NewsItemSql.cs:line 97
+   at NewsApp.Entities.NewsSources.NewSourcesXML.GlobesNewsSource.InsertNewsArticleToDB(DataTable dataTable) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsSources\NewSourcesXML\GlobesNewsSource.cs:line 79
+   at NewsApp.Entities.NewsSources.NewSourcesXML.GlobesNewsSource.GetNewsArticleItems(String url, String categoryName, String sourceName) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsSources\NewSourcesXML\GlobesNewsSource.cs:line 134
+ClientConnectionId:a233ee68-23a2-4ebe-a69e-f59b6a5bedfc
+Error Number:2628,State:1,Class:16-String or binary data would be truncated in table 'tempdb.dbo.#BED74166', column 'Image'. Truncated value: 'https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800%2A392/v167863322'.
+The data for table-valued parameter "@newsItems" doesn't conform to the table type of the parameter. SQL Server error is: 2628, state: 1
+The statement has been terminated.
+3/17/2023 12:00:40 PM: Exception:  System.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated in table 'tempdb.dbo.#BED74166', column 'Image'. Truncated value: 'https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800%2A392/v167863322'.
+The data for table-valued parameter "@newsItems" doesn't conform to the table type of the parameter. SQL Server error is: 2628, state: 1
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at NewsApp.Data.Sql.NewsItemSql.InsertNewsItemToDB(DataTable dataTable) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\NewsItemSql.cs:line 97
+   at NewsApp.Entities.NewsSources.NewSourcesXML.GlobesNewsSource.InsertNewsArticleToDB(DataTable dataTable) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsSources\NewSourcesXML\GlobesNewsSource.cs:line 79
+   at NewsApp.Entities.NewsSources.NewSourcesXML.GlobesNewsSource.GetNewsArticleItems(String url, String categoryName, String sourceName) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsSources\NewSourcesXML\GlobesNewsSource.cs:line 134
+ClientConnectionId:a233ee68-23a2-4ebe-a69e-f59b6a5bedfc
+Error Number:2628,State:1,Class:16-String or binary data would be truncated in table 'tempdb.dbo.#BED74166', column 'Image'. Truncated value: 'https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800%2A392/v167863322'.
+The data for table-valued parameter "@newsItems" doesn't conform to the table type of the parameter. SQL Server error is: 2628, state: 1
+The statement has been terminated.
+3/17/2023 12:00:40 PM: Event: Inserts a Data Table that contains 10 articles in the 'תיירות' category on the 'גלובס' website into the database
+3/17/2023 12:00:40 PM: Exception:  System.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated in table 'tempdb.dbo.#BED74166', column 'Image'. Truncated value: 'https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800%2A392/v167863322'.
+The data for table-valued parameter "@newsItems" doesn't conform to the table type of the parameter. SQL Server error is: 2628, state: 1
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at NewsApp.Data.Sql.NewsItemSql.InsertNewsItemToDB(DataTable dataTable) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\NewsItemSql.cs:line 97
+   at NewsApp.Entities.NewsSources.NewSourcesXML.GlobesNewsSource.InsertNewsArticleToDB(DataTable dataTable) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsSources\NewSourcesXML\GlobesNewsSource.cs:line 79
+   at NewsApp.Entities.NewsSources.NewSourcesXML.GlobesNewsSource.GetNewsArticleItems(String url, String categoryName, String sourceName) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsSources\NewSourcesXML\GlobesNewsSource.cs:line 134
+ClientConnectionId:a233ee68-23a2-4ebe-a69e-f59b6a5bedfc
+Error Number:2628,State:1,Class:16-String or binary data would be truncated in table 'tempdb.dbo.#BED74166', column 'Image'. Truncated value: 'https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800%2A392/v167863322'.
+The data for table-valued parameter "@newsItems" doesn't conform to the table type of the parameter. SQL Server error is: 2628, state: 1
+The statement has been terminated.
+3/17/2023 12:00:40 PM: Event: Inserts a Data Table that contains 10 articles in the 'דעות' category on the 'גלובס' website into the database
+3/17/2023 12:03:42 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:03:42 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:03:42 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:03:42 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:03:45 PM: Event: Started inserting a User categories for a user with the email: tomao360@gmail.com into the DB ('InsertUserCategoriesToDb' function in 'UsersController' class)
+3/17/2023 12:03:45 PM: Event: The User Categories for the user with the email: tomao360@gmail.com were inserted successfully into the database
+3/17/2023 12:03:45 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:03:46 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+3/17/2023 12:03:46 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:03:46 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+3/17/2023 12:12:10 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 12:12:11 PM: Event: All the Users were received successfully from DB
+3/17/2023 12:12:11 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 12:12:11 PM: Event: All the Users were received successfully from DB
+3/17/2023 12:13:10 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 12:13:10 PM: Event: All the Users were received successfully from DB
+3/17/2023 12:13:10 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 12:13:10 PM: Event: All the Users were received successfully from DB
+3/17/2023 12:13:10 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:13:10 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:13:10 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:13:10 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:13:23 PM: Event: Started inserting a User categories for a user with the email: tomao360@gmail.com into the DB ('InsertUserCategoriesToDb' function in 'UsersController' class)
+3/17/2023 12:13:23 PM: Event: The User Categories for the user with the email: tomao360@gmail.com were inserted successfully into the database
+3/17/2023 12:13:23 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:13:23 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+3/17/2023 12:13:23 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:13:23 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+3/17/2023 12:13:30 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 12:13:30 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+3/17/2023 12:13:30 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 12:13:30 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+3/17/2023 12:14:25 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 12:14:25 PM: Event: All the Users were received successfully from DB
+3/17/2023 12:14:25 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 12:14:25 PM: Event: All the Users were received successfully from DB
+3/17/2023 12:15:03 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 12:15:03 PM: Event: All the Users were received successfully from DB
+3/17/2023 12:15:03 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 12:15:03 PM: Event: All the Users were received successfully from DB
+3/17/2023 12:15:03 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 12:15:04 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+3/17/2023 12:15:04 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 12:15:04 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+3/17/2023 12:22:17 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:22:18 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:22:18 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:22:18 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:22:21 PM: Event: Started inserting a User categories for a user with the email: tomao360@gmail.com into the DB ('InsertUserCategoriesToDb' function in 'UsersController' class)
+3/17/2023 12:22:21 PM: Event: The User Categories for the user with the email: tomao360@gmail.com were inserted successfully into the database
+3/17/2023 12:22:21 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:22:21 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+3/17/2023 12:22:21 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:22:21 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+3/17/2023 12:23:00 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 12:23:00 PM: Event: All the Users were received successfully from DB
+3/17/2023 12:23:01 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 12:23:01 PM: Event: All the Users were received successfully from DB
+3/17/2023 12:23:01 PM: Event: Started inserting a User with the email: tomi123@gmail.com into the DB ('InsertUserToDb' function in 'UsersController' class)
+3/17/2023 12:23:01 PM: Event: Started inserting a User with the email: tomi123@gmail.com into the DB ('InsertUserToDb' function in 'UsersController' class)
+3/17/2023 12:23:01 PM: Event: A User with the email: tomi123@gmail.com was inserted successfully into the database
+3/17/2023 12:23:01 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:23:01 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:23:01 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:23:01 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:23:01 PM: Event: A User with the email: tomi123@gmail.com was inserted successfully into the database
+3/17/2023 12:23:09 PM: Event: Started inserting a User categories for a user with the email: tomi123@gmail.com into the DB ('InsertUserCategoriesToDb' function in 'UsersController' class)
+3/17/2023 12:23:09 PM: Event: The User Categories for the user with the email: tomi123@gmail.com were inserted successfully into the database
+3/17/2023 12:26:31 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomi123@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:26:31 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:26:31 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:26:31 PM: Event: All the News Items for a user by User Email (Email - tomi123@gmail.com) were received successfully from DB
+3/17/2023 12:26:31 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomi123@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:26:31 PM: Event: All the News Items for a user by User Email (Email - tomi123@gmail.com) were received successfully from DB
+3/17/2023 12:26:33 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:26:33 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:26:33 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:26:33 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:26:35 PM: Event: Started inserting a User categories for a user with the email: tomi123@gmail.com into the DB ('InsertUserCategoriesToDb' function in 'UsersController' class)
+3/17/2023 12:26:35 PM: Event: The User Categories for the user with the email: tomi123@gmail.com were inserted successfully into the database
+3/17/2023 12:26:35 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomi123@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:26:35 PM: Event: All the News Items for a user by User Email (Email - tomi123@gmail.com) were received successfully from DB
+3/17/2023 12:26:35 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomi123@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:26:35 PM: Event: All the News Items for a user by User Email (Email - tomi123@gmail.com) were received successfully from DB
+3/17/2023 12:26:37 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomi123@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:26:37 PM: Event: All the News Items for a user by User Email (Email - tomi123@gmail.com) were received successfully from DB
+3/17/2023 12:26:37 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomi123@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:26:37 PM: Event: All the News Items for a user by User Email (Email - tomi123@gmail.com) were received successfully from DB
+3/17/2023 12:29:29 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:29:29 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:29:29 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:29:29 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:29:29 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:29:29 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:29:42 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:29:42 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:29:48 PM: Event: Started inserting a User categories for a user with the email: tomi123@gmail.com into the DB ('InsertUserCategoriesToDb' function in 'UsersController' class)
+3/17/2023 12:29:48 PM: Event: The User Categories for the user with the email: tomi123@gmail.com were inserted successfully into the database
+3/17/2023 12:30:28 PM: Event: Inserts a Data Table that contains 10 articles in the 'חדשות מהארץ ומהעולם' category on the 'ynet' website into the database
+3/17/2023 12:30:28 PM: Event: Inserts a Data Table that contains 10 articles in the 'מבזקי חדשות' category on the '!וואלה' website into the database
+3/17/2023 12:30:28 PM: Event: Inserts a Data Table that contains 10 articles in the 'ספורט' category on the 'ynet' website into the database
+3/17/2023 12:30:28 PM: Event: Inserts a Data Table that contains 10 articles in the 'כלכלה' category on the 'ynet' website into the database
+3/17/2023 12:30:28 PM: Event: Inserts a Data Table that contains 10 articles in the 'רכב' category on the 'גלובס' website into the database
+3/17/2023 12:30:28 PM: Event: Inserts a Data Table that contains 10 articles in the 'בריאות' category on the 'ynet' website into the database
+3/17/2023 12:30:29 PM: Event: Inserts a Data Table that contains 10 articles in the 'רכב' category on the 'ynet' website into the database
+3/17/2023 12:30:29 PM: Event: Inserts a Data Table that contains 10 articles in the 'צרכנות' category on the 'ynet' website into the database
+3/17/2023 12:30:29 PM: Event: Inserts a Data Table that contains 10 articles in the 'דעות' category on the 'ynet' website into the database
+3/17/2023 12:30:29 PM: Event: Inserts a Data Table that contains 10 articles in the 'תרבות' category on the 'ynet' website into the database
+3/17/2023 12:30:29 PM: Event: Inserts a Data Table that contains 10 articles in the 'טכנולוגיה' category on the 'ynet' website into the database
+3/17/2023 12:30:29 PM: Event: Inserts a Data Table that contains 10 articles in the 'אוכל' category on the 'ynet' website into the database
+3/17/2023 12:30:29 PM: Event: Inserts a Data Table that contains 10 articles in the 'דעות' category on the 'גלובס' website into the database
+3/17/2023 12:30:29 PM: Event: Inserts a Data Table that contains 10 articles in the 'צרכנות' category on the 'גלובס' website into the database
+3/17/2023 12:30:29 PM: Event: Inserts a Data Table that contains 10 articles in the 'תרבות' category on the 'מעריב' website into the database
+3/17/2023 12:30:29 PM: Event: Inserts a Data Table that contains 10 articles in the 'חדשות מהארץ ומהעולם' category on the 'מעריב' website into the database
+3/17/2023 12:30:29 PM: Event: Inserts a Data Table that contains 10 articles in the 'מדע וסביבה' category on the '!וואלה' website into the database
+3/17/2023 12:30:29 PM: Event: Inserts a Data Table that contains 10 articles in the 'מדע וסביבה' category on the 'ynet' website into the database
+3/17/2023 12:30:29 PM: Exception:  System.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated in table 'tempdb.dbo.#A2A7D24A', column 'Image'. Truncated value: 'https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800%2A392/v167863322'.
+The data for table-valued parameter "@newsItems" doesn't conform to the table type of the parameter. SQL Server error is: 2628, state: 1
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at NewsApp.Data.Sql.NewsItemSql.InsertNewsItemToDB(DataTable dataTable) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\NewsItemSql.cs:line 97
+   at NewsApp.Entities.NewsSources.NewSourcesXML.GlobesNewsSource.InsertNewsArticleToDB(DataTable dataTable) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsSources\NewSourcesXML\GlobesNewsSource.cs:line 79
+   at NewsApp.Entities.NewsSources.NewSourcesXML.GlobesNewsSource.GetNewsArticleItems(String url, String categoryName, String sourceName) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsSources\NewSourcesXML\GlobesNewsSource.cs:line 134
+ClientConnectionId:8e6d52d7-a444-40bc-b3dd-7acef9a1df96
+Error Number:2628,State:1,Class:16-String or binary data would be truncated in table 'tempdb.dbo.#A2A7D24A', column 'Image'. Truncated value: 'https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800%2A392/v167863322'.
+The data for table-valued parameter "@newsItems" doesn't conform to the table type of the parameter. SQL Server error is: 2628, state: 1
+The statement has been terminated.
+3/17/2023 12:30:29 PM: Event: Inserts a Data Table that contains 10 articles in the 'ספורט' category on the 'מעריב' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'בריאות' category on the 'מעריב' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'טכנולוגיה' category on the 'מעריב' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'תיירות' category on the 'ynet' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'חדשות מהארץ ומהעולם' category on the '!וואלה' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'דעות' category on the '!וואלה' website into the database
+3/17/2023 12:30:30 PM: Exception:  System.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated in table 'tempdb.dbo.#A2A7D24A', column 'Image'. Truncated value: 'https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800%2A392/v167863322'.
+The data for table-valued parameter "@newsItems" doesn't conform to the table type of the parameter. SQL Server error is: 2628, state: 1
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at NewsApp.Data.Sql.NewsItemSql.InsertNewsItemToDB(DataTable dataTable) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\NewsItemSql.cs:line 97
+   at NewsApp.Entities.NewsSources.NewSourcesXML.GlobesNewsSource.InsertNewsArticleToDB(DataTable dataTable) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsSources\NewSourcesXML\GlobesNewsSource.cs:line 79
+   at NewsApp.Entities.NewsSources.NewSourcesXML.GlobesNewsSource.GetNewsArticleItems(String url, String categoryName, String sourceName) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsSources\NewSourcesXML\GlobesNewsSource.cs:line 134
+ClientConnectionId:8e6d52d7-a444-40bc-b3dd-7acef9a1df96
+Error Number:2628,State:1,Class:16-String or binary data would be truncated in table 'tempdb.dbo.#A2A7D24A', column 'Image'. Truncated value: 'https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800%2A392/v167863322'.
+The data for table-valued parameter "@newsItems" doesn't conform to the table type of the parameter. SQL Server error is: 2628, state: 1
+The statement has been terminated.
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'הורים' category on the 'ynet' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'חדשות מהארץ ומהעולם' category on the 'גלובס' website into the database
+3/17/2023 12:30:30 PM: Exception:  System.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated in table 'tempdb.dbo.#A2A7D24A', column 'Image'. Truncated value: 'https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800%2A392/v167863322'.
+The data for table-valued parameter "@newsItems" doesn't conform to the table type of the parameter. SQL Server error is: 2628, state: 1
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at NewsApp.Data.Sql.NewsItemSql.InsertNewsItemToDB(DataTable dataTable) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\NewsItemSql.cs:line 97
+   at NewsApp.Entities.NewsSources.NewSourcesXML.GlobesNewsSource.InsertNewsArticleToDB(DataTable dataTable) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsSources\NewSourcesXML\GlobesNewsSource.cs:line 79
+   at NewsApp.Entities.NewsSources.NewSourcesXML.GlobesNewsSource.GetNewsArticleItems(String url, String categoryName, String sourceName) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsSources\NewSourcesXML\GlobesNewsSource.cs:line 134
+ClientConnectionId:8e6d52d7-a444-40bc-b3dd-7acef9a1df96
+Error Number:2628,State:1,Class:16-String or binary data would be truncated in table 'tempdb.dbo.#A2A7D24A', column 'Image'. Truncated value: 'https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800%2A392/v167863322'.
+The data for table-valued parameter "@newsItems" doesn't conform to the table type of the parameter. SQL Server error is: 2628, state: 1
+The statement has been terminated.
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'צרכנות' category on the '!וואלה' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'מבזקי חדשות' category on the 'מעריב' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'דעות' category on the 'מעריב' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'תיירות' category on the 'מעריב' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'רכילות' category on the 'מעריב' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'צרכנות' category on the 'מעריב' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'טכנולוגיה' category on the 'גלובס' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'מבזקי חדשות' category on the 'ynet' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'כלכלה' category on the 'מעריב' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'ספורט' category on the '!וואלה' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'הורים' category on the 'מעריב' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'רכב' category on the 'מעריב' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'בריאות' category on the '!וואלה' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'מדע וסביבה' category on the 'מעריב' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'אוכל' category on the 'מעריב' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'אוכל' category on the '!וואלה' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'הורים' category on the '!וואלה' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'תיירות' category on the 'גלובס' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'כלכלה' category on the 'גלובס' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'תרבות' category on the '!וואלה' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'כלכלה' category on the '!וואלה' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'תיירות' category on the '!וואלה' website into the database
+3/17/2023 12:30:30 PM: Event: Inserts a Data Table that contains 10 articles in the 'רכב' category on the '!וואלה' website into the database
+3/17/2023 12:30:31 PM: Event: Inserts a Data Table that contains 10 articles in the 'רכילות' category on the '!וואלה' website into the database
+3/17/2023 12:30:31 PM: Event: Inserts a Data Table that contains 10 articles in the 'טכנולוגיה' category on the '!וואלה' website into the database
+3/17/2023 12:30:40 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:30:40 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:30:47 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 12:30:47 PM: Event: All the Users were received successfully from DB
+3/17/2023 12:30:47 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 12:30:47 PM: Event: All the Users were received successfully from DB
+3/17/2023 12:30:47 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomi123@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:30:48 PM: Event: All the News Items for a user by User Email (Email - tomi123@gmail.com) were received successfully from DB
+3/17/2023 12:30:48 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomi123@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:30:48 PM: Event: All the News Items for a user by User Email (Email - tomi123@gmail.com) were received successfully from DB
+3/17/2023 12:30:50 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:30:50 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:30:50 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:30:50 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:30:52 PM: Event: Started inserting a User categories for a user with the email: tomi123@gmail.com into the DB ('InsertUserCategoriesToDb' function in 'UsersController' class)
+3/17/2023 12:30:52 PM: Event: The User Categories for the user with the email: tomi123@gmail.com were inserted successfully into the database
+3/17/2023 12:30:52 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomi123@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:30:52 PM: Event: All the News Items for a user by User Email (Email - tomi123@gmail.com) were received successfully from DB
+3/17/2023 12:30:52 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomi123@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:30:52 PM: Event: All the News Items for a user by User Email (Email - tomi123@gmail.com) were received successfully from DB
+3/17/2023 12:30:56 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:30:56 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:30:56 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:30:56 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:30:56 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 12:30:56 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+3/17/2023 12:30:56 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 12:30:56 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+3/17/2023 12:30:58 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 12:30:58 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+3/17/2023 12:30:58 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 12:30:58 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+3/17/2023 12:30:58 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:30:58 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:30:58 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:30:58 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:31:01 PM: Event: Started inserting a User categories for a user with the email: tomi123@gmail.com into the DB ('InsertUserCategoriesToDb' function in 'UsersController' class)
+3/17/2023 12:31:01 PM: Event: The User Categories for the user with the email: tomi123@gmail.com were inserted successfully into the database
+3/17/2023 12:31:01 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomi123@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:31:01 PM: Event: All the News Items for a user by User Email (Email - tomi123@gmail.com) were received successfully from DB
+3/17/2023 12:31:01 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomi123@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:31:01 PM: Event: All the News Items for a user by User Email (Email - tomi123@gmail.com) were received successfully from DB
+3/17/2023 12:31:28 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 12:31:28 PM: Event: All the Users were received successfully from DB
+3/17/2023 12:31:28 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 12:31:28 PM: Event: All the Users were received successfully from DB
+3/17/2023 12:31:28 PM: Event: Started inserting a User with the email: toma1212@gmail.com into the DB ('InsertUserToDb' function in 'UsersController' class)
+3/17/2023 12:31:28 PM: Event: Started inserting a User with the email: toma1212@gmail.com into the DB ('InsertUserToDb' function in 'UsersController' class)
+3/17/2023 12:31:28 PM: Event: A User with the email: toma1212@gmail.com was inserted successfully into the database
+3/17/2023 12:31:28 PM: Event: Started inserting a User with the email: toma1212@gmail.com into the DB ('InsertUserToDb' function in 'UsersController' class)
+3/17/2023 12:31:28 PM: Event: A User with the email: toma1212@gmail.com was inserted successfully into the database
+3/17/2023 12:31:28 PM: Event: Started inserting a User with the email: toma1212@gmail.com into the DB ('InsertUserToDb' function in 'UsersController' class)
+3/17/2023 12:31:28 PM: Event: A User with the email: toma1212@gmail.com was inserted successfully into the database
+3/17/2023 12:31:29 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:31:29 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:31:29 PM: Exception:  System.Data.SqlClient.SqlException (0x80131904): Violation of UNIQUE KEY constraint 'UQ__Users__A9D1053423035523'. Cannot insert duplicate key in object 'dbo.Users'. The duplicate key value is (toma1212@gmail.com).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at NewsApp.Data.Sql.UserSql.InsertUserToDB(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\UserSql.cs:line 84
+   at NewsApp.Entities.Users.InsertUserToDB(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\Users.cs:line 39
+   at NewsApp.MicroService.Controllers.UsersController.InsertUserToDb(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\Controllers\UsersController.cs:line 45
+ClientConnectionId:8e6d52d7-a444-40bc-b3dd-7acef9a1df96
+Error Number:2627,State:1,Class:14-Violation of UNIQUE KEY constraint 'UQ__Users__A9D1053423035523'. Cannot insert duplicate key in object 'dbo.Users'. The duplicate key value is (toma1212@gmail.com).
+The statement has been terminated.
+3/17/2023 12:31:29 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:31:29 PM: Exception:  System.Data.SqlClient.SqlException (0x80131904): Violation of UNIQUE KEY constraint 'UQ__Users__A9D1053423035523'. Cannot insert duplicate key in object 'dbo.Users'. The duplicate key value is (toma1212@gmail.com).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at NewsApp.Data.Sql.UserSql.InsertUserToDB(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\UserSql.cs:line 84
+   at NewsApp.Entities.Users.InsertUserToDB(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\Users.cs:line 39
+   at NewsApp.MicroService.Controllers.UsersController.InsertUserToDb(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\Controllers\UsersController.cs:line 45
+ClientConnectionId:8e6d52d7-a444-40bc-b3dd-7acef9a1df96
+Error Number:2627,State:1,Class:14-Violation of UNIQUE KEY constraint 'UQ__Users__A9D1053423035523'. Cannot insert duplicate key in object 'dbo.Users'. The duplicate key value is (toma1212@gmail.com).
+The statement has been terminated.
+3/17/2023 12:31:29 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:31:30 PM: Exception:  System.Data.SqlClient.SqlException (0x80131904): Violation of UNIQUE KEY constraint 'UQ__Users__A9D1053423035523'. Cannot insert duplicate key in object 'dbo.Users'. The duplicate key value is (toma1212@gmail.com).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at NewsApp.Data.Sql.UserSql.InsertUserToDB(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\UserSql.cs:line 84
+   at NewsApp.Entities.Users.InsertUserToDB(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\Users.cs:line 39
+   at NewsApp.MicroService.Controllers.UsersController.InsertUserToDb(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\Controllers\UsersController.cs:line 45
+ClientConnectionId:8e6d52d7-a444-40bc-b3dd-7acef9a1df96
+Error Number:2627,State:1,Class:14-Violation of UNIQUE KEY constraint 'UQ__Users__A9D1053423035523'. Cannot insert duplicate key in object 'dbo.Users'. The duplicate key value is (toma1212@gmail.com).
+The statement has been terminated.. Response ID = 541a5e76-3e24-4c7a-830b-a1d737e640da
+3/17/2023 12:31:36 PM: Event: Started inserting a User categories for a user with the email: toma1212@gmail.com into the DB ('InsertUserCategoriesToDb' function in 'UsersController' class)
+3/17/2023 12:31:36 PM: Event: The User Categories for the user with the email: toma1212@gmail.com were inserted successfully into the database
+3/17/2023 12:31:57 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 12:31:57 PM: Event: All the Users were received successfully from DB
+3/17/2023 12:31:57 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 12:31:57 PM: Event: All the Users were received successfully from DB
+3/17/2023 12:31:57 PM: Event: Start retrieving all the News Items for a user by User Email (Email - toma1212@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:31:57 PM: Event: All the News Items for a user by User Email (Email - toma1212@gmail.com) were received successfully from DB
+3/17/2023 12:31:57 PM: Event: Start retrieving all the News Items for a user by User Email (Email - toma1212@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:31:57 PM: Event: All the News Items for a user by User Email (Email - toma1212@gmail.com) were received successfully from DB
+3/17/2023 12:33:41 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 12:33:41 PM: Event: All the Users were received successfully from DB
+3/17/2023 12:33:41 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 12:33:41 PM: Event: All the Users were received successfully from DB
+3/17/2023 12:33:41 PM: Event: Started inserting a User with the email: tomaac@gmail.com into the DB ('InsertUserToDb' function in 'UsersController' class)
+3/17/2023 12:33:41 PM: Event: Started inserting a User with the email: tomaac@gmail.com into the DB ('InsertUserToDb' function in 'UsersController' class)
+3/17/2023 12:33:41 PM: Event: A User with the email: tomaac@gmail.com was inserted successfully into the database
+3/17/2023 12:33:41 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:33:41 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:33:41 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:33:41 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:33:41 PM: Exception:  System.Data.SqlClient.SqlException (0x80131904): Violation of UNIQUE KEY constraint 'UQ__Users__A9D1053423035523'. Cannot insert duplicate key in object 'dbo.Users'. The duplicate key value is (tomaac@gmail.com).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at NewsApp.Data.Sql.UserSql.InsertUserToDB(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\UserSql.cs:line 84
+   at NewsApp.Entities.Users.InsertUserToDB(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\Users.cs:line 39
+   at NewsApp.MicroService.Controllers.UsersController.InsertUserToDb(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\Controllers\UsersController.cs:line 45
+ClientConnectionId:b872990f-e6e5-4b9c-91c5-50fb34f862e5
+Error Number:2627,State:1,Class:14-Violation of UNIQUE KEY constraint 'UQ__Users__A9D1053423035523'. Cannot insert duplicate key in object 'dbo.Users'. The duplicate key value is (tomaac@gmail.com).
+The statement has been terminated.
+3/17/2023 12:33:41 PM: Exception:  System.Data.SqlClient.SqlException (0x80131904): Violation of UNIQUE KEY constraint 'UQ__Users__A9D1053423035523'. Cannot insert duplicate key in object 'dbo.Users'. The duplicate key value is (tomaac@gmail.com).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at NewsApp.Data.Sql.UserSql.InsertUserToDB(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\UserSql.cs:line 84
+   at NewsApp.Entities.Users.InsertUserToDB(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\Users.cs:line 39
+   at NewsApp.MicroService.Controllers.UsersController.InsertUserToDb(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\Controllers\UsersController.cs:line 45
+ClientConnectionId:b872990f-e6e5-4b9c-91c5-50fb34f862e5
+Error Number:2627,State:1,Class:14-Violation of UNIQUE KEY constraint 'UQ__Users__A9D1053423035523'. Cannot insert duplicate key in object 'dbo.Users'. The duplicate key value is (tomaac@gmail.com).
+The statement has been terminated.
+3/17/2023 12:33:41 PM: Exception:  System.Data.SqlClient.SqlException (0x80131904): Violation of UNIQUE KEY constraint 'UQ__Users__A9D1053423035523'. Cannot insert duplicate key in object 'dbo.Users'. The duplicate key value is (tomaac@gmail.com).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at NewsApp.Data.Sql.UserSql.InsertUserToDB(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\UserSql.cs:line 84
+   at NewsApp.Entities.Users.InsertUserToDB(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\Users.cs:line 39
+   at NewsApp.MicroService.Controllers.UsersController.InsertUserToDb(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\Controllers\UsersController.cs:line 45
+ClientConnectionId:b872990f-e6e5-4b9c-91c5-50fb34f862e5
+Error Number:2627,State:1,Class:14-Violation of UNIQUE KEY constraint 'UQ__Users__A9D1053423035523'. Cannot insert duplicate key in object 'dbo.Users'. The duplicate key value is (tomaac@gmail.com).
+The statement has been terminated.. Response ID = 106ae1d9-efc8-4bb5-862f-18b195415999
+3/17/2023 12:33:43 PM: Event: Started inserting a User categories for a user with the email: tomaac@gmail.com into the DB ('InsertUserCategoriesToDb' function in 'UsersController' class)
+3/17/2023 12:33:43 PM: Event: The User Categories for the user with the email: tomaac@gmail.com were inserted successfully into the database
+3/17/2023 12:33:43 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomaac@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:33:43 PM: Event: All the News Items for a user by User Email (Email - tomaac@gmail.com) were received successfully from DB
+3/17/2023 12:33:43 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomaac@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:33:43 PM: Event: All the News Items for a user by User Email (Email - tomaac@gmail.com) were received successfully from DB
+3/17/2023 12:33:50 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 12:33:50 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+3/17/2023 12:33:50 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 12:33:50 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+3/17/2023 12:33:50 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomaac@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:33:50 PM: Event: All the News Items for a user by User Email (Email - tomaac@gmail.com) were received successfully from DB
+3/17/2023 12:33:50 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomaac@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:33:50 PM: Event: All the News Items for a user by User Email (Email - tomaac@gmail.com) were received successfully from DB
+3/17/2023 12:34:17 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 12:34:17 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+3/17/2023 12:34:18 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 12:34:18 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+3/17/2023 12:34:18 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomaac@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:34:18 PM: Event: All the News Items for a user by User Email (Email - tomaac@gmail.com) were received successfully from DB
+3/17/2023 12:34:18 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomaac@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:34:18 PM: Event: All the News Items for a user by User Email (Email - tomaac@gmail.com) were received successfully from DB
+3/17/2023 12:35:19 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 12:35:19 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+3/17/2023 12:35:19 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 12:35:19 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+3/17/2023 12:35:19 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomaac@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:35:19 PM: Event: All the News Items for a user by User Email (Email - tomaac@gmail.com) were received successfully from DB
+3/17/2023 12:35:19 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomaac@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:35:19 PM: Event: All the News Items for a user by User Email (Email - tomaac@gmail.com) were received successfully from DB
+3/17/2023 12:35:42 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:35:42 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:35:42 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:35:42 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:35:47 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:35:47 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:36:11 PM: Event: Started inserting a User categories for a user with the email: tomaac@gmail.com into the DB ('InsertUserCategoriesToDb' function in 'UsersController' class)
+3/17/2023 12:36:11 PM: Event: The User Categories for the user with the email: tomaac@gmail.com were inserted successfully into the database
+3/17/2023 12:36:11 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomaac@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:36:11 PM: Event: All the News Items for a user by User Email (Email - tomaac@gmail.com) were received successfully from DB
+3/17/2023 12:36:11 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomaac@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:36:11 PM: Event: All the News Items for a user by User Email (Email - tomaac@gmail.com) were received successfully from DB
+3/17/2023 12:36:13 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:36:13 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:36:13 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:36:13 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:36:14 PM: Event: Started inserting a User categories for a user with the email: tomaac@gmail.com into the DB ('InsertUserCategoriesToDb' function in 'UsersController' class)
+3/17/2023 12:36:14 PM: Event: The User Categories for the user with the email: tomaac@gmail.com were inserted successfully into the database
+3/17/2023 12:36:14 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomaac@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:36:14 PM: Event: All the News Items for a user by User Email (Email - tomaac@gmail.com) were received successfully from DB
+3/17/2023 12:36:14 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomaac@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:36:14 PM: Event: All the News Items for a user by User Email (Email - tomaac@gmail.com) were received successfully from DB
+3/17/2023 12:36:19 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomaac@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:36:19 PM: Event: All the News Items for a user by User Email (Email - tomaac@gmail.com) were received successfully from DB
+3/17/2023 12:36:19 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomaac@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:36:19 PM: Event: All the News Items for a user by User Email (Email - tomaac@gmail.com) were received successfully from DB
+3/17/2023 12:36:19 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 12:36:19 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+3/17/2023 12:36:19 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 12:36:19 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+3/17/2023 12:36:20 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 12:36:20 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+3/17/2023 12:36:20 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 12:36:20 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+3/17/2023 12:36:24 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:36:24 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:36:24 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:36:24 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:36:24 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 12:36:24 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+3/17/2023 12:36:24 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 12:36:24 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+3/17/2023 12:37:52 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 12:37:52 PM: Event: All the Users were received successfully from DB
+3/17/2023 12:37:52 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+3/17/2023 12:37:52 PM: Event: All the Users were received successfully from DB
+3/17/2023 12:37:52 PM: Event: Started inserting a User with the email: 345@gmail.com into the DB ('InsertUserToDb' function in 'UsersController' class)
+3/17/2023 12:37:52 PM: Event: Started inserting a User with the email: 345@gmail.com into the DB ('InsertUserToDb' function in 'UsersController' class)
+3/17/2023 12:37:52 PM: Event: A User with the email: 345@gmail.com was inserted successfully into the database
+3/17/2023 12:37:52 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:37:52 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:37:52 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+3/17/2023 12:37:52 PM: Event: All the categories were received successfully from DB
+3/17/2023 12:37:52 PM: Exception:  System.Data.SqlClient.SqlException (0x80131904): Violation of UNIQUE KEY constraint 'UQ__Users__A9D1053423035523'. Cannot insert duplicate key in object 'dbo.Users'. The duplicate key value is (345@gmail.com).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at NewsApp.Data.Sql.UserSql.InsertUserToDB(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\UserSql.cs:line 84
+   at NewsApp.Entities.Users.InsertUserToDB(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\Users.cs:line 39
+   at NewsApp.MicroService.Controllers.UsersController.InsertUserToDb(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\Controllers\UsersController.cs:line 45
+ClientConnectionId:b872990f-e6e5-4b9c-91c5-50fb34f862e5
+Error Number:2627,State:1,Class:14-Violation of UNIQUE KEY constraint 'UQ__Users__A9D1053423035523'. Cannot insert duplicate key in object 'dbo.Users'. The duplicate key value is (345@gmail.com).
+The statement has been terminated.
+3/17/2023 12:37:52 PM: Exception:  System.Data.SqlClient.SqlException (0x80131904): Violation of UNIQUE KEY constraint 'UQ__Users__A9D1053423035523'. Cannot insert duplicate key in object 'dbo.Users'. The duplicate key value is (345@gmail.com).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at NewsApp.Data.Sql.UserSql.InsertUserToDB(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\UserSql.cs:line 84
+   at NewsApp.Entities.Users.InsertUserToDB(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\Users.cs:line 39
+   at NewsApp.MicroService.Controllers.UsersController.InsertUserToDb(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\Controllers\UsersController.cs:line 45
+ClientConnectionId:b872990f-e6e5-4b9c-91c5-50fb34f862e5
+Error Number:2627,State:1,Class:14-Violation of UNIQUE KEY constraint 'UQ__Users__A9D1053423035523'. Cannot insert duplicate key in object 'dbo.Users'. The duplicate key value is (345@gmail.com).
+The statement has been terminated.
+3/17/2023 12:37:52 PM: Exception:  System.Data.SqlClient.SqlException (0x80131904): Violation of UNIQUE KEY constraint 'UQ__Users__A9D1053423035523'. Cannot insert duplicate key in object 'dbo.Users'. The duplicate key value is (345@gmail.com).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at NewsApp.Data.Sql.UserSql.InsertUserToDB(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\UserSql.cs:line 84
+   at NewsApp.Entities.Users.InsertUserToDB(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\Users.cs:line 39
+   at NewsApp.MicroService.Controllers.UsersController.InsertUserToDb(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\Controllers\UsersController.cs:line 45
+ClientConnectionId:b872990f-e6e5-4b9c-91c5-50fb34f862e5
+Error Number:2627,State:1,Class:14-Violation of UNIQUE KEY constraint 'UQ__Users__A9D1053423035523'. Cannot insert duplicate key in object 'dbo.Users'. The duplicate key value is (345@gmail.com).
+The statement has been terminated.. Response ID = 31dc38f0-c3f7-4eb0-bdd9-011e39ecbb01
+3/17/2023 12:38:15 PM: Event: Started inserting a User categories for a user with the email: 345@gmail.com into the DB ('InsertUserCategoriesToDb' function in 'UsersController' class)
+3/17/2023 12:38:15 PM: Event: The User Categories for the user with the email: 345@gmail.com were inserted successfully into the database
+3/17/2023 12:38:15 PM: Event: Start retrieving all the News Items for a user by User Email (Email - 345@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:38:15 PM: Event: All the News Items for a user by User Email (Email - 345@gmail.com) were received successfully from DB
+3/17/2023 12:38:15 PM: Event: Start retrieving all the News Items for a user by User Email (Email - 345@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+3/17/2023 12:38:15 PM: Event: All the News Items for a user by User Email (Email - 345@gmail.com) were received successfully from DB
+3/17/2023 12:38:35 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 12:38:35 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+3/17/2023 12:38:35 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 12:38:35 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+3/17/2023 12:38:41 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 12:38:41 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+3/17/2023 12:38:41 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 12:38:41 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+3/17/2023 12:38:51 PM: Event: Started updating the News Item Link (Item ID = 170) in the DB ('UpdateNewsItemClickedLink' function in 'NewsItemsController' class)
+3/17/2023 12:38:51 PM: Event: A News Item Link with the ID: 170 updated successfully in the database
+3/17/2023 12:38:56 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 12:38:56 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+3/17/2023 12:38:56 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+3/17/2023 12:38:56 PM: Event: 10 most popular News Items from the user categories were received successfully from DB

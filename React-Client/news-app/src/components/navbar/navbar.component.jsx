@@ -32,32 +32,32 @@ export const Navbar = (props) => {
             <ul className="navbar-nav">
               <li className="nav-item">
                 <Link className="nav-link" to="/">
-                  <HomeIcon className="icon" />
                   דף הבית
+                  <HomeIcon className="icon" />
                 </Link>
               </li>
               <li className="nav-item">
                 <Link className="nav-link" to="/about">
-                  <InfoIcon className="icon" />
                   אודות
+                  <InfoIcon className="icon" />
                 </Link>
               </li>
               <li className="nav-item user-staff">
                 <Link className="nav-link" to="/popular">
-                  <AutoAwesomeRoundedIcon className="icon" />
                   כתבות פופולאריות
+                  <AutoAwesomeRoundedIcon className="icon" />
                 </Link>
               </li>
               <li className="nav-item user-staff">
                 <Link className="nav-link" to="/curious">
-                  <PsychologyAltRoundedIcon className="icon" />
                   כתבות לסקרנים
+                  <PsychologyAltRoundedIcon className="icon" />
                 </Link>
               </li>
               <li className="nav-item user-staff">
                 <Link className="nav-link" to="/categories">
-                  <CategoryRoundedIcon className="icon" />
                   קטגוריות
+                  <CategoryRoundedIcon className="icon" />
                 </Link>
               </li>
               <li className="nav-item dropdown">
@@ -79,7 +79,7 @@ export const Navbar = (props) => {
                       }
                     >
                       <LogoutRoundedIcon className="icon" />
-                      Log Out
+                      התנתק
                     </button>
                   </li>
                 </ul>

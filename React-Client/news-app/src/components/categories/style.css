@@ -19,4 +19,6 @@
 
 .categories-button {
   margin-top: 20px;
+  color: rgb(140, 30, 191) !important;
+  font-weight: 600 !important;
 }
