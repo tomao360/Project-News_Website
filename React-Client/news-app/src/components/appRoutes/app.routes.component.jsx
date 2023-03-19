@@ -6,6 +6,8 @@ import { Navbar, Footer, Categories } from "../../components";
 import { HomePage, About, Popular, Curious, PageNotFound } from "./../../pages";
 
 export const AppRoutes = (props) => {
+  const test = "yes";
+
   return (
     <div className="app">
       <div>
@@ -17,7 +19,7 @@ export const AppRoutes = (props) => {
           <Route path="/about" element={<About />} />
           <Route path="/popular" element={<Popular />} />
           <Route path="/curious" element={<Curious />} />
-          <Route path="/categories" element={<Categories />} />
+          <Route path="/categories" element={<Categories test={test} />} />
           <Route path="*" element={<PageNotFound />} />
         </Routes>
       </div>

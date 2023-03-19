@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 
+import { useNavigate } from "react-router-dom";
 import { useRecoilValue } from "recoil";
 import { RingLoader } from "react-spinners";
 import Fab from "@mui/material/Fab";
@@ -15,8 +16,10 @@ import { AppRoutes } from "../../components";
 
 import "./style.css";
 
-export const Categories = (props) => {
+export const Categories = ({ test }) => {
+  console.log(test);
   const email = useRecoilValue(emailState);
+  const navigate = useNavigate();
   const [categoriesArr, setCategoriesArr] = useState(undefined);
   const [selectedCategories, setSelectedCategories] = useState([]);
   const [addSuccess, setAddsuccess] = useState(false);
@@ -68,8 +71,15 @@ export const Categories = (props) => {
     toastSuccess("The categories saved sucessfully");
   };
 
-  //render the AppRoutes component if adding user categories is successful
-  if (addSuccess === true) return <AppRoutes />;
+  // If accessed from the AppRoutes, return to the HomePage
+  if (addSuccess === true && test === "yes") {
+    return navigate("/");
+  }
+
+  // If adding user categories is successful, return to the AppRoutes
+  if (addSuccess === true) {
+    return <AppRoutes />;
+  }
 
   return (
     <div className="main-category-container">
