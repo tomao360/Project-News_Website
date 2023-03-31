@@ -36,8 +36,8 @@ export const addUserToDb = async (userEmail) => {
 export const addUserCategoriesToDb = async (usersCategories) => {
   try {
     console.log(usersCategories, 55555555);
-    let endpoint = `${constUsersEndpoint}insertusercategories/${usersCategories.email}/${usersCategories.categoryName1}/${usersCategories.categoryName2}/${usersCategories.categoryName3}`;
-    await axios.post(endpoint);
+    let endpoint = `${constUsersEndpoint}insertusercategories`;
+    await axios.post(endpoint, usersCategories);
   } catch (error) {
     toast(
       "An error occurred while executing the request. Please try again in a few minutes, if the problem continues contact us."

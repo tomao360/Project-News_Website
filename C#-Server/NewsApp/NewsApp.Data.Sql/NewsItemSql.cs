@@ -111,7 +111,7 @@ namespace NewsApp.Data.Sql
         }
 
 
-        // A function that updates a social activist at the Social_Activists table in SQL 
+        // A function that updates number times clicked at the News_Items table in SQL 
         public void UpdateNewItemNumberTimesClicked(int itemID)
         {
             try
@@ -126,6 +126,89 @@ namespace NewsApp.Data.Sql
 
                         // Add parameters to the command
                         command.Parameters.AddWithValue("@itemID", itemID);
+
+                        //Execute the command
+                        command.ExecuteNonQuery();
+                    }
+                }
+            }
+            catch (SqlException ex)
+            {
+                Log.LogException(ex.Message, ex);
+                throw;
+            }
+            catch (Exception ex)
+            {
+                Log.LogException(ex.Message, ex);
+                throw;
+            }
+        }
+
+        public List<NewsItem> GetPopularNewsItemsForYouTube()
+        {
+            // Create a new list of News Items
+            List<NewsItem> newsItemsList = new List<NewsItem>();
+
+            // Clear the list before adding new data
+            newsItemsList.Clear();
+
+            try
+            {
+                using (SqlConnection connection = new SqlConnection(connectionString))
+                {
+                    using (SqlCommand command = new SqlCommand("GetPopularNewsItemsForYouTube", connection))
+                    {
+                        connection.Open();
+                        // Set the command type as Stored Procedure
+                        command.CommandType = CommandType.StoredProcedure;
+
+                        using (SqlDataReader reader = command.ExecuteReader())
+                        {
+                            while (reader.Read())
+                            {
+                                NewsItem newsItem = new NewsItem();
+
+                                // Get the values for the properties of the NewsItem object from the SQL Stored Procedure
+                                newsItem.ItemID = reader.GetInt32(reader.GetOrdinal("ItemID"));
+                                newsItem.Title = reader.GetString(reader.GetOrdinal("Title"));
+                                newsItem.YouTubeLink = reader.IsDBNull(reader.GetOrdinal("YouTubeLink")) ? null : reader.GetString(reader.GetOrdinal("YouTubeLink"));
+
+                                // Add the NewsItem object to the list
+                                newsItemsList.Add(newsItem);
+                            }
+                        }
+                    }
+                }
+            }
+            catch (SqlException ex)
+            {
+                Log.LogException(ex.Message, ex);
+                throw;
+            }
+            catch (Exception ex)
+            {
+                Log.LogException(ex.Message, ex);
+                throw;
+            }
+
+            return newsItemsList;
+        }
+
+        public void UpdateYouTubeLink(int itemID, string youtubeLink)
+        {
+            try
+            {
+                using (SqlConnection connection = new SqlConnection(connectionString))
+                {
+                    using (SqlCommand command = new SqlCommand("UpdateTouTubeLink", connection))
+                    {
+                        connection.Open();
+                        // Set the command type as Stored Procedure
+                        command.CommandType = CommandType.StoredProcedure;
+
+                        // Add parameters to the command
+                        command.Parameters.AddWithValue("@itemID", itemID);
+                        command.Parameters.AddWithValue("@youtubeLink", youtubeLink);
 
                         //Execute the command
                         command.ExecuteNonQuery();
@@ -182,7 +265,7 @@ namespace NewsApp.Data.Sql
                                 newsItem.CategoryID = reader.GetInt32(reader.GetOrdinal("CategoryID"));
                                 newsItem.LogoImage = reader.GetString(reader.GetOrdinal("LogoImage"));
                                 newsItem.NumberTimesClicked = reader.GetInt32(reader.GetOrdinal("NumberTimesClicked"));
-
+                                newsItem.YouTubeLink = reader.GetString(reader.GetOrdinal("YouTubeLink"));
 
                                 // Add the NewsItem object to the list
                                 newsItemsList.Add(newsItem);

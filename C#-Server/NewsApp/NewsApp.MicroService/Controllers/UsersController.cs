@@ -61,24 +61,15 @@ namespace NewsApp.MicroService.Controllers
         }
 
 
-        [HttpPost("insertusercategories/{email}/{categoryName1}/{categoryName2}/{categoryName3}")]
-        public JsonResult InsertUserCategoriesToDb(string? email, string? categoryName1, string? categoryName2, string? categoryName3)
+        [HttpPost("insertusercategories")]
+        public JsonResult InsertUserCategoriesToDb(UserCategory userCategory)
         {
             try
             {
-                if (email != null && categoryName1 != null)
-                {
-                    MainManager.Instance.logger.LogEvent($"Started inserting a User categories for a user with the email: {email} into the DB ('InsertUserCategoriesToDb' function in 'UsersController' class)");
-                    MainManager.Instance.users.InsertOrUpdateUserCategories(email, categoryName1, categoryName2, categoryName3);
-                    MainManager.Instance.logger.LogEvent($"The User Categories for the user with the email: {email} were inserted successfully into the database");
-                    return new JsonResult(base.BuildResponse("OK", "User Categories inserted successfully", newGuid, null));
-                }
-                else
-                {
-                    // Return a failure message if the required field are not present
-                    MainManager.Instance.logger.LogError($"A problem occurred while inserting the user categories into the DB in the 'InsertUserCategoriesToDb' function in 'UsersController' class. Response ID = {newGuid}");
-                    return new JsonResult(base.BuildResponse("Error", "Invalid User Email or Categories", newGuid, null));
-                }
+                MainManager.Instance.logger.LogEvent($"Started inserting a User categories for a user with the email: {userCategory.Email} into the DB ('InsertUserCategoriesToDb' function in 'UsersController' class)");
+                MainManager.Instance.users.InsertOrUpdateUserCategories(userCategory.Email, userCategory.CategoryName1, userCategory.CategoryName2, userCategory.CategoryName3);
+                MainManager.Instance.logger.LogEvent($"The User Categories for the user with the email: {userCategory.Email} were inserted successfully into the database");
+                return new JsonResult(base.BuildResponse("OK", "User Categories inserted successfully", newGuid, null));
             }
             catch (Exception ex)
             {

@@ -9,7 +9,7 @@ create table News_Source (SourceID int primary key identity, SourceName nvarchar
 create table Categories (CategoryID int primary key identity,
 	CategoryName nvarchar(100), CategoryLink nvarchar(300),
 	SourceID int foreign key references News_Source (SourceID) on delete cascade,
-	CategoryImage nvarchar(1000))
+	CategoryImage varbinary(max))
 
 ------------------Users-----------------
 create table Users (UserID int primary key identity, Email nvarchar(50) unique)
@@ -21,9 +21,12 @@ create table Users_Categories (UserCategoriyID int primary key identity,
 
 ---------------News_Items---------------
 create table News_Items (ItemID int primary key identity,
-	Title nvarchar(300), Description nvarchar(max), ItemLink nvarchar(300), Image nvarchar(500), 
+	Title nvarchar(300), Description nvarchar(max), ItemLink nvarchar(300), Image nvarchar(max), 
 	CategoryID int foreign key references Categories (CategoryID) on delete cascade, 
-	NumberTimesClicked int)
+	NumberTimesClicked int, YouTubeLink nvarchar(500))
+
+-----------------Config-----------------
+create table Config (ConfigID int primary key identity, ConfigKey nvarchar(100), ConfigValue nvarchar(100))
 
 ----------------Logger------------------
 create table Logger (LoggerID int primary key identity, 
@@ -299,6 +302,33 @@ end
 ---------------------------------------
 drop procedure DeleteNewsItemByID
 ---------------------------------------------------------------------------
+--Select popular News Items for YouTube using stored procedure
+---------------------------------------------------------------------------
+create procedure GetPopularNewsItemsForYouTube
+as
+begin 
+	select News_Items.ItemID, News_Items.Title, News_Items.YouTubeLink from News_Items 
+	inner join Categories on News_Items.CategoryID = Categories.CategoryID
+	inner join News_Source on Categories.SourceID = News_Source.SourceID
+	where NumberTimesClicked > 0
+	order by NumberTimesClicked desc
+end
+---------------------------------------
+drop procedure GetPopularNewsItemsForYouTube
+---------------------------------------------------------------------------
+--Update YouTubeLink in News_Items table using stored procedure
+---------------------------------------------------------------------------
+create procedure UpdateTouTubeLink
+	@itemID int,
+	@youtubeLink nvarchar(500)
+as
+begin
+	update News_Items set YouTubeLink = @youtubeLink
+	where ItemID = @itemID
+end
+---------------------------------------
+drop procedure UpdateTouTubeLink
+---------------------------------------------------------------------------
 --------------------------------DROP TABLES--------------------------------
 drop table News_Source
 drop table Categories
@@ -306,3 +336,4 @@ drop table Users
 drop table Users_Categories
 drop table News_Items
 drop table Logger
+drop table Config

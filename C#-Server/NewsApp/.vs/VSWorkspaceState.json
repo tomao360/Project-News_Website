@@ -8,6 +8,6 @@
     "\\NewsApp.MicroService",
     "\\NewsApp.MicroService\\Controllers"
   ],
-  "SelectedNode": "\\NewsApp.MicroService\\Controllers\\NewsItemsController.cs",
+  "SelectedNode": "\\NewsApp.MicroService\\Controllers\\UsersController.cs",
   "PreviewInSolutionExplorer": false
 }

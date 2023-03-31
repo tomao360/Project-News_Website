@@ -13,6 +13,6 @@ namespace NewsApp.Model
         public string CategoryLink { get; set; }
         public int SourceID { get; set; }
         public string SourceName { get; set; }
-        public string? CategoryImage { get; set; }
+        public byte[]? CategoryImage { get; set; }
     }
 }

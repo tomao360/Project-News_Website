@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "i1x6lHHGLF5xt7eKGHD597+PMujOyCN0t2XTdQoFXlSJqX7rVTQLMC+YlUYie2M26inQlsFVssdz7/aftETJ0A==",
+  "dgSpecHash": "q7iokujPk9rB6mw9rH/NxFWvxfgufYIM9Px10V5s/VJcWT4UKkeI6A/dB9jILtKR/r7lEyLEuT1+zsWoEFntLg==",
   "success": true,
   "projectFilePath": "D:\\Programming\\Zionet\\NewsApp_Project\\C#-Server\\NewsApp\\NewsApp.MicroService\\NewsApp.MicroService.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\97252\\.nuget\\packages\\google.apis\\1.60.0\\google.apis.1.60.0.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\google.apis.auth\\1.60.0\\google.apis.auth.1.60.0.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\google.apis.core\\1.60.0\\google.apis.core.1.60.0.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\google.apis.youtube.v3\\1.60.0.2945\\google.apis.youtube.v3.1.60.0.2945.nupkg.sha512",
     "C:\\Users\\97252\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
     "C:\\Users\\97252\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\97252\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
@@ -17,6 +21,7 @@
     "C:\\Users\\97252\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\97252\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\97252\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\97252\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
     "C:\\Users\\97252\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
     "C:\\Users\\97252\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\97252\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

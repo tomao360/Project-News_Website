@@ -120,3 +120,9 @@ D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\obj
 D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\obj\Debug\net6.0\NewsApp.MicroService.pdb
 D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\obj\Debug\net6.0\NewsApp.MicroService.genruntimeconfig.cache
 D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\obj\Debug\net6.0\ref\NewsApp.MicroService.dll
+D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\bin\Debug\net6.0\Google.Apis.dll
+D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\bin\Debug\net6.0\Google.Apis.Auth.dll
+D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\bin\Debug\net6.0\Google.Apis.Core.dll
+D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\bin\Debug\net6.0\Google.Apis.YouTube.v3.dll
+D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\bin\Debug\net6.0\Newtonsoft.Json.dll

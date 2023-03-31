@@ -98,7 +98,7 @@ namespace NewsApp.Data.Sql
 
                                 // Get the values for the properties of the Category object from the SQL query
                                 category.CategoryName = reader.GetString(reader.GetOrdinal("CategoryName"));
-                                category.CategoryImage = reader.IsDBNull(reader.GetOrdinal("CategoryImage")) ? null : reader.GetString(reader.GetOrdinal("CategoryImage"));
+                                category.CategoryImage =  reader.IsDBNull(reader.GetOrdinal("CategoryImage")) ? null : (byte[])reader.GetValue(reader.GetOrdinal("CategoryImage"));
 
                                 // Add the Category object to the list
                                 categoriesList.Add(category);

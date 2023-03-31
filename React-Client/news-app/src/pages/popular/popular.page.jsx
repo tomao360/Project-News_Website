@@ -4,7 +4,7 @@ import { useRecoilValue } from "recoil";
 
 import { emailState } from "./../../state/email";
 import { getMostPopularData } from "../../services/news.items.services";
-import { NewsItemCard } from "../../components/newsItemCard/news.item.card.component";
+import { PopularNewsItemCard } from "../../components/popularNewsItemCard/popular.new.item.card.component";
 
 import "./style.css";
 
@@ -32,7 +32,7 @@ export const Popular = (props) => {
       <div className="popular-container">
         {popularItemsArr && popularItemsArr.length > 0 ? (
           popularItemsArr.map((popular) => {
-            return <NewsItemCard key={popular.id} newsItem={popular} />;
+            return <PopularNewsItemCard key={popular.id} newsItem={popular} />;
           })
         ) : (
           <p className="not-found-p">לא נמצאו כתבות פופולאריות</p>

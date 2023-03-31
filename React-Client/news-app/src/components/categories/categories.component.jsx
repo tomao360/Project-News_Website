@@ -51,18 +51,20 @@ export const Categories = ({ test }) => {
     if (selectedCategories[1] !== undefined) {
       category2 = selectedCategories[1];
     } else {
-      category2 = null;
+      category2 = "string";
     }
     if (selectedCategories[2] !== undefined) {
       category3 = selectedCategories[2];
     } else {
-      category3 = null;
+      category3 = "string";
     }
     let json = {
-      email: email,
-      categoryName1: selectedCategories[0],
-      categoryName2: category2,
-      categoryName3: category3,
+      UserCategoriyID: 0,
+      UserID: 0,
+      Email: email,
+      CategoryName1: selectedCategories[0],
+      CategoryName2: category2,
+      CategoryName3: category3,
     };
     console.log(json);
     await addUserCategoriesToDb(json).then(() => {
@@ -95,8 +97,8 @@ export const Categories = ({ test }) => {
               className="category-image"
             >
               <img
-                src={`${category.categoryImage}?w=248&fit=crop&auto=format`}
-                srcSet={`${category.categoryImage}?w=248&fit=crop&auto=format&dpr=2 2x`}
+                src={`data:image/png;base64,${category.categoryImage}`}
+                srcSet={`data:image/png;base64,${category.categoryImage}`}
                 alt={category.categoryName}
                 loading="lazy"
               />

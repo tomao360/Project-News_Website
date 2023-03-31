@@ -17,5 +17,6 @@ namespace NewsApp.Model
         public string CategoryName { get; set; }
         public string LogoImage { get; set; }
         public int NumberTimesClicked { get; set; }
+        public string? YouTubeLink { get; set; }
     }
 }
