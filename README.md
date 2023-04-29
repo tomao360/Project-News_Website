@@ -14,6 +14,7 @@ The following technologies are used in the development of News_Website:
 
 - C#
 - Web API
+- YouTube API
 
 2. Client:
 
@@ -22,6 +23,7 @@ The following technologies are used in the development of News_Website:
 - Bootstrap
 - Material UI
 - axios
+- react-youtube
 
 3. Database:
 
