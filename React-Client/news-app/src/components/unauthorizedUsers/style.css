@@ -1,24 +1,42 @@
 .unauthorized-container {
-  background: rgb(58, 37, 92);
   background: linear-gradient(
-    175deg,
-    rgba(58, 37, 92, 1) 25%,
-    rgba(236, 236, 236, 0.5637605383950455) 81%
+    -45deg,
+    #3a255c,
+    rgba(58, 37, 92, 1),
+    rgba(236, 236, 236, 0.5637605383950455),
+    #414242d9
   );
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+  height: 100vh;
   display: flex;
   flex-direction: column;
-
   justify-content: center;
   align-items: center;
   height: 100vh !important;
 }
 
-.welcome {
-  margin-bottom: 30px;
-  text-shadow: 2px 2px rgb(53, 2, 92);
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.logo {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+  box-shadow: 3px 8px #bababa2f;
 }
 
 .enter-button {
-  color: rgb(140, 30, 191) !important;
+  color: rgb(110, 110, 110) !important;
   font-weight: 600 !important;
 }

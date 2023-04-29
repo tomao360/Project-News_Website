@@ -9,3 +9,7 @@
   padding: 10px;
   width: 95vw;
 }
+
+.category-title {
+  text-shadow: 2px 1px rgb(255, 255, 255);
+}

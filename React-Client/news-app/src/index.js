@@ -6,10 +6,10 @@ import { BrowserRouter } from "react-router-dom";
 import { Auth0Provider } from "@auth0/auth0-react";
 import { RecoilRoot } from "recoil";
 
-import "./index.css";
 import ".././node_modules/bootstrap/dist/css/bootstrap.css";
 import ".././node_modules/bootstrap/dist/css/bootstrap-grid.min.css";
 import ".././node_modules/bootstrap/dist/js/bootstrap.bundle.min.js";
+import "./index.css";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(

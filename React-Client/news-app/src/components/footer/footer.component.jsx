@@ -7,7 +7,7 @@ export const Footer = (props) => {
     <div>
       <footer className="footer-container">
         <p className="p-footer">
-          <span>&copy;</span>2023 אתר מבזקי החדשות של תמרה
+          <span>&copy;</span>2023 מבזקי חדשות
         </p>
       </footer>
     </div>

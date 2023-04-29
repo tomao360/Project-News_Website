@@ -158,3 +158,726 @@ The statement has been terminated.
 3/31/2023 9:57:03 PM: Event: Inserts a Data Table that contains 10 articles in the 'דעות' category on the 'ynet' website into the database
 3/31/2023 9:57:03 PM: Event: Inserts a Data Table that contains 10 articles in the 'רכב' category on the 'מעריב' website into the database
 3/31/2023 9:57:03 PM: Event: Inserts a Data Table that contains 10 articles in the 'רכב' category on the 'ynet' website into the database
+4/29/2023 8:09:13 PM: Event: Program Started
+4/29/2023 8:09:13 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+4/29/2023 8:09:14 PM: Error: A problem occurred while getting a User Role from Auth0
+4/29/2023 8:09:14 PM: Error: An error occurred while executing the request
+4/29/2023 8:09:14 PM: Error: A problem occurred while getting a User Role from Auth0
+4/29/2023 8:09:14 PM: Error: An error occurred while executing the request
+4/29/2023 8:09:15 PM: Error: A problem occurred while getting a User Role from Auth0
+4/29/2023 8:09:15 PM: Error: An error occurred while executing the request
+4/29/2023 8:09:20 PM: Event: All Users were received from DB
+4/29/2023 8:09:20 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+4/29/2023 8:09:20 PM: Event: All Users were received from DB
+4/29/2023 8:14:49 PM: Event: All Users were received from DB
+4/29/2023 8:14:49 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+4/29/2023 8:14:49 PM: Event: All Users were received from DB
+4/29/2023 8:14:52 PM: Error: A problem occurred while getting a User Role from Auth0
+4/29/2023 8:14:52 PM: Error: An error occurred while executing the request
+4/29/2023 8:14:53 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+4/29/2023 8:14:53 PM: Event: All Users were received from DB
+4/29/2023 8:14:53 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+4/29/2023 8:14:53 PM: Event: All Users were received from DB
+4/29/2023 8:14:56 PM: Error: A problem occurred while getting a User Role from Auth0
+4/29/2023 8:14:56 PM: Error: An error occurred while executing the request
+4/29/2023 8:14:57 PM: Error: A problem occurred while getting a User Role from Auth0
+4/29/2023 8:14:57 PM: Error: An error occurred while executing the request
+4/29/2023 8:15:47 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+4/29/2023 8:15:47 PM: Event: All Users were received from DB
+4/29/2023 8:15:48 PM: Error: A problem occurred while getting a User Role from Auth0
+4/29/2023 8:15:48 PM: Error: An error occurred while executing the request
+4/29/2023 8:15:49 PM: Error: A problem occurred while getting a User Role from Auth0
+4/29/2023 8:15:49 PM: Error: An error occurred while executing the request
+4/29/2023 8:15:47 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+4/29/2023 8:16:28 PM: Event: All Users were received from DB
+4/29/2023 8:16:28 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+4/29/2023 8:16:28 PM: Event: All Users were received from DB
+4/29/2023 8:16:29 PM: Error: A problem occurred while getting a User Role from Auth0
+4/29/2023 8:16:29 PM: Error: An error occurred while executing the request
+4/29/2023 8:16:32 PM: Error: A problem occurred while getting a User Role from Auth0
+4/29/2023 8:16:32 PM: Error: An error occurred while executing the request
+4/29/2023 8:16:28 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+4/29/2023 8:18:48 PM: Event: Program Started
+4/29/2023 8:18:48 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+4/29/2023 8:18:50 PM: Event: All Users were received from DB
+4/29/2023 8:18:50 PM: Event: Start retrieving all Users from DB (Execute function in UsersGetCmd class)
+4/29/2023 8:18:50 PM: Event: All Users were received from DB
+4/29/2023 8:18:51 PM: Error: A problem occurred while getting a User Role from Auth0
+4/29/2023 8:18:51 PM: Error: An error occurred while executing the request
+4/29/2023 8:18:54 PM: Error: A problem occurred while getting a User Role from Auth0
+4/29/2023 8:18:54 PM: Error: An error occurred while executing the request
+4/29/2023 9:27:15 PM: Event: Starting to receive information from the 'Globes' news site
+4/29/2023 9:27:15 PM: Event: Starting to receive information from the 'Walla' news site
+4/29/2023 9:27:15 PM: Event: Starting to receive information from the 'Maariv' news site
+4/29/2023 9:27:15 PM: Event: Starting to receive information from the 'Walla' news site
+4/29/2023 9:27:15 PM: Event: Starting to receive information from the YouTube API
+4/29/2023 9:27:15 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+4/29/2023 9:27:16 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+4/29/2023 9:27:17 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+4/29/2023 9:27:21 PM: Event: Connect to the YouTube API
+4/29/2023 9:27:25 PM: Event: All the Users were received successfully from DB
+4/29/2023 9:27:28 PM: Event: Recieve the most popular news items list
+4/29/2023 9:27:28 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+4/29/2023 9:27:28 PM: Event: All the Users were received successfully from DB
+4/29/2023 9:27:28 PM: Event: All the Users were received successfully from DB
+4/29/2023 9:27:28 PM: Event: All the Users were received successfully from DB
+4/29/2023 9:27:28 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+4/29/2023 9:27:28 PM: Event: All the Users were received successfully from DB
+4/29/2023 9:27:28 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:27:31 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:27:32 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:27:33 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:27:50 PM: Exception:  System.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=32; [Login] initialization=0; authentication=13; [Post-Login] complete=14086; 
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at NewsApp.Data.Sql.CategorySql.GetAllCategoriesNames() in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\CategorySql.cs:line 89
+   at NewsApp.Entities.Categories.GetAllCategoriesNames() in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\Categories.cs:line 41
+   at NewsApp.MicroService.Controllers.NewsItemsController.GetCategories() in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\Controllers\NewsItemsController.cs:line 20
+ClientConnectionId:b1edea14-8809-4cba-9097-ac176871805a
+Error Number:-2,State:0,Class:11-Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=32; [Login] initialization=0; authentication=13; [Post-Login] complete=14086; 
+4/29/2023 9:27:50 PM: Exception:  System.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=32; [Login] initialization=0; authentication=13; [Post-Login] complete=14086; 
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at NewsApp.Data.Sql.CategorySql.GetAllCategoriesNames() in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\CategorySql.cs:line 89
+   at NewsApp.Entities.Categories.GetAllCategoriesNames() in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\Categories.cs:line 41
+   at NewsApp.MicroService.Controllers.NewsItemsController.GetCategories() in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\Controllers\NewsItemsController.cs:line 20
+ClientConnectionId:b1edea14-8809-4cba-9097-ac176871805a
+Error Number:-2,State:0,Class:11-Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=32; [Login] initialization=0; authentication=13; [Post-Login] complete=14086; 
+4/29/2023 9:27:50 PM: Exception:  System.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=32; [Login] initialization=0; authentication=13; [Post-Login] complete=14086; 
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at NewsApp.Data.Sql.NewsItemSql.GetAllNewsItemsForUser(String userEmail) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\NewsItemSql.cs:line 33
+   at NewsApp.Entities.NewsItems.GetAllNewsItemsForUser(String userEmail) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsItems.cs:line 25
+   at NewsApp.MicroService.Controllers.NewsItemsController.GetNewsItemsForUser(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\Controllers\NewsItemsController.cs:line 44
+ClientConnectionId:b1edea14-8809-4cba-9097-ac176871805a
+Error Number:-2,State:0,Class:11-Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=32; [Login] initialization=0; authentication=13; [Post-Login] complete=14086; 
+4/29/2023 9:27:50 PM: Exception:  System.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=32; [Login] initialization=0; authentication=13; [Post-Login] complete=14086; 
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at NewsApp.Data.Sql.CategorySql.GetAllCategoriesNames() in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\CategorySql.cs:line 89
+   at NewsApp.Entities.Categories.GetAllCategoriesNames() in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\Categories.cs:line 41
+   at NewsApp.MicroService.Controllers.NewsItemsController.GetCategories() in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\Controllers\NewsItemsController.cs:line 20
+ClientConnectionId:b1edea14-8809-4cba-9097-ac176871805a
+Error Number:-2,State:0,Class:11-Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=32; [Login] initialization=0; authentication=13; [Post-Login] complete=14086; . Response ID = 16b65b09-ceb7-4c72-8fbd-2e21caed8024
+4/29/2023 9:27:50 PM: Exception:  System.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=32; [Login] initialization=0; authentication=13; [Post-Login] complete=14086; 
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at NewsApp.Data.Sql.NewsItemSql.GetAllNewsItemsForUser(String userEmail) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\NewsItemSql.cs:line 33
+   at NewsApp.Entities.NewsItems.GetAllNewsItemsForUser(String userEmail) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsItems.cs:line 25
+   at NewsApp.MicroService.Controllers.NewsItemsController.GetNewsItemsForUser(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\Controllers\NewsItemsController.cs:line 44
+ClientConnectionId:b1edea14-8809-4cba-9097-ac176871805a
+Error Number:-2,State:0,Class:11-Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=32; [Login] initialization=0; authentication=13; [Post-Login] complete=14086; 
+4/29/2023 9:27:50 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:27:50 PM: Exception:  System.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=32; [Login] initialization=0; authentication=13; [Post-Login] complete=14086; 
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at NewsApp.Data.Sql.NewsItemSql.GetAllNewsItemsForUser(String userEmail) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\NewsItemSql.cs:line 33
+   at NewsApp.Entities.NewsItems.GetAllNewsItemsForUser(String userEmail) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsItems.cs:line 25
+   at NewsApp.MicroService.Controllers.NewsItemsController.GetNewsItemsForUser(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\Controllers\NewsItemsController.cs:line 44
+ClientConnectionId:b1edea14-8809-4cba-9097-ac176871805a
+Error Number:-2,State:0,Class:11-Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=32; [Login] initialization=0; authentication=13; [Post-Login] complete=14086; . Response ID = 5552b053-5fc0-4950-a5a3-0d168285e99a
+4/29/2023 9:27:50 PM: Exception:  System.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=32; [Login] initialization=0; authentication=13; [Post-Login] complete=14086; 
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at NewsApp.Data.Sql.CategorySql.GetAllCategoriesNames() in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\CategorySql.cs:line 89
+   at NewsApp.Entities.Categories.GetAllCategoriesNames() in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\Categories.cs:line 41
+   at NewsApp.MicroService.Controllers.NewsItemsController.GetCategories() in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\Controllers\NewsItemsController.cs:line 20
+ClientConnectionId:b1edea14-8809-4cba-9097-ac176871805a
+Error Number:-2,State:0,Class:11-Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=32; [Login] initialization=0; authentication=13; [Post-Login] complete=14086; 
+4/29/2023 9:27:50 PM: Exception:  System.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=32; [Login] initialization=0; authentication=13; [Post-Login] complete=14086; 
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at NewsApp.Data.Sql.CategorySql.GetAllCategoriesNames() in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\CategorySql.cs:line 89
+   at NewsApp.Entities.Categories.GetAllCategoriesNames() in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\Categories.cs:line 41
+   at NewsApp.MicroService.Controllers.NewsItemsController.GetCategories() in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\Controllers\NewsItemsController.cs:line 20
+ClientConnectionId:b1edea14-8809-4cba-9097-ac176871805a
+Error Number:-2,State:0,Class:11-Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=0; handshake=32; [Login] initialization=0; authentication=13; [Post-Login] complete=14086; 
+4/29/2023 9:31:43 PM: Event: Starting to receive information from the 'Globes' news site
+4/29/2023 9:31:43 PM: Event: Starting to receive information from the 'Walla' news site
+4/29/2023 9:31:43 PM: Event: Starting to receive information from the 'Maariv' news site
+4/29/2023 9:31:43 PM: Event: Starting to receive information from the 'Walla' news site
+4/29/2023 9:31:43 PM: Event: Starting to receive information from the YouTube API
+4/29/2023 9:31:43 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:31:43 PM: Event: Connect to the YouTube API
+4/29/2023 9:31:43 PM: Event: Recieve the most popular news items list
+4/29/2023 9:31:44 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:31:45 PM: Event: Inserts a Data Table that contains 10 articles in the 'מבזקי חדשות' category on the 'ynet' website into the database
+4/29/2023 9:31:45 PM: Event: Inserts a Data Table that contains 10 articles in the 'חדשות מהארץ ומהעולם' category on the 'מעריב' website into the database
+4/29/2023 9:31:46 PM: Event: Inserts a Data Table that contains 10 articles in the 'טכנולוגיה' category on the '!וואלה' website into the database
+4/29/2023 9:31:46 PM: Event: Inserts a Data Table that contains 10 articles in the 'טכנולוגיה' category on the 'מעריב' website into the database
+4/29/2023 9:31:46 PM: Event: Inserts a Data Table that contains 10 articles in the 'מדע וסביבה' category on the 'ynet' website into the database
+4/29/2023 9:31:46 PM: Event: Inserts a Data Table that contains 10 articles in the 'רכילות' category on the '!וואלה' website into the database
+4/29/2023 9:31:46 PM: Event: Inserts a Data Table that contains 10 articles in the 'תרבות' category on the '!וואלה' website into the database
+4/29/2023 9:31:46 PM: Event: Inserts a Data Table that contains 10 articles in the 'תיירות' category on the 'מעריב' website into the database
+4/29/2023 9:31:46 PM: Event: Inserts a Data Table that contains 10 articles in the 'רכב' category on the 'ynet' website into the database
+4/29/2023 9:31:46 PM: Event: Inserts a Data Table that contains 10 articles in the 'דעות' category on the '!וואלה' website into the database
+4/29/2023 9:31:46 PM: Event: Inserts a Data Table that contains 10 articles in the 'הורים' category on the 'מעריב' website into the database
+4/29/2023 9:31:46 PM: Event: Inserts a Data Table that contains 10 articles in the 'אוכל' category on the 'ynet' website into the database
+4/29/2023 9:31:46 PM: Event: Inserts a Data Table that contains 10 articles in the 'מדע וסביבה' category on the '!וואלה' website into the database
+4/29/2023 9:31:46 PM: Event: Inserts a Data Table that contains 10 articles in the 'תרבות' category on the 'ynet' website into the database
+4/29/2023 9:31:46 PM: Event: Inserts a Data Table that contains 10 articles in the 'תיירות' category on the '!וואלה' website into the database
+4/29/2023 9:31:46 PM: Event: Inserts a Data Table that contains 10 articles in the 'תיירות' category on the 'ynet' website into the database
+4/29/2023 9:31:46 PM: Event: Inserts a Data Table that contains 10 articles in the 'רכב' category on the '!וואלה' website into the database
+4/29/2023 9:31:46 PM: Event: Inserts a Data Table that contains 10 articles in the 'חדשות מהארץ ומהעולם' category on the 'ynet' website into the database
+4/29/2023 9:31:46 PM: Event: Inserts a Data Table that contains 10 articles in the 'בריאות' category on the '!וואלה' website into the database
+4/29/2023 9:31:46 PM: Event: Inserts a Data Table that contains 10 articles in the 'טכנולוגיה' category on the 'ynet' website into the database
+4/29/2023 9:31:46 PM: Event: Inserts a Data Table that contains 10 articles in the 'דעות' category on the 'ynet' website into the database
+4/29/2023 9:31:46 PM: Event: Inserts a Data Table that contains 10 articles in the 'הורים' category on the 'ynet' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'צרכנות' category on the 'ynet' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'חדשות מהארץ ומהעולם' category on the '!וואלה' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'כלכלה' category on the 'ynet' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'ספורט' category on the 'ynet' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'אוכל' category on the '!וואלה' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'צרכנות' category on the 'מעריב' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'בריאות' category on the 'ynet' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'ספורט' category on the '!וואלה' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'אוכל' category on the 'מעריב' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'צרכנות' category on the '!וואלה' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'תרבות' category on the 'מעריב' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'כלכלה' category on the '!וואלה' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'מבזקי חדשות' category on the 'מעריב' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'רכב' category on the 'מעריב' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'דעות' category on the 'מעריב' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'מדע וסביבה' category on the 'מעריב' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'בריאות' category on the 'מעריב' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'חדשות מהארץ ומהעולם' category on the 'גלובס' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'כלכלה' category on the 'מעריב' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'ספורט' category on the 'מעריב' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'דעות' category on the 'גלובס' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'רכילות' category on the 'מעריב' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'כלכלה' category on the 'גלובס' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'רכב' category on the 'גלובס' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'תיירות' category on the 'גלובס' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'צרכנות' category on the 'גלובס' website into the database
+4/29/2023 9:31:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'טכנולוגיה' category on the 'גלובס' website into the database
+4/29/2023 9:31:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'הורים' category on the '!וואלה' website into the database
+4/29/2023 9:32:10 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+4/29/2023 9:32:10 PM: Event: All the Users were received successfully from DB
+4/29/2023 9:32:10 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+4/29/2023 9:32:10 PM: Event: All the Users were received successfully from DB
+4/29/2023 9:32:10 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:32:11 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:32:11 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:32:11 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:37:19 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:37:19 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:37:19 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:37:19 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:37:29 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+4/29/2023 9:37:29 PM: Event: All the Users were received successfully from DB
+4/29/2023 9:37:29 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+4/29/2023 9:37:29 PM: Event: All the Users were received successfully from DB
+4/29/2023 9:38:32 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+4/29/2023 9:38:32 PM: Event: All the Users were received successfully from DB
+4/29/2023 9:38:32 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+4/29/2023 9:38:32 PM: Event: All the Users were received successfully from DB
+4/29/2023 9:38:36 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:38:36 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:38:36 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:38:36 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:39:06 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+4/29/2023 9:39:06 PM: Event: All the Users were received successfully from DB
+4/29/2023 9:39:06 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+4/29/2023 9:39:06 PM: Event: All the Users were received successfully from DB
+4/29/2023 9:39:06 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:39:07 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:39:07 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:39:07 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:39:14 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+4/29/2023 9:39:14 PM: Event: All the Users were received successfully from DB
+4/29/2023 9:39:14 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+4/29/2023 9:39:14 PM: Event: All the Users were received successfully from DB
+4/29/2023 9:39:14 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:39:14 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:39:14 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:39:14 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:39:32 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+4/29/2023 9:39:32 PM: Event: All the Users were received successfully from DB
+4/29/2023 9:39:32 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+4/29/2023 9:39:32 PM: Event: All the Users were received successfully from DB
+4/29/2023 9:39:32 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:39:32 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:39:32 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:39:32 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:39:45 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:40:01 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:40:01 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:40:01 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:40:01 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:40:01 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:40:02 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:40:02 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:40:10 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:40:10 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:40:10 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:40:10 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:40:18 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:40:25 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:40:27 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:40:28 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:40:28 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:40:28 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:40:28 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:40:28 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:40:28 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:40:29 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:40:30 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:40:31 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:40:31 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:40:31 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:40:32 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:40:32 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:40:33 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:40:34 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:40:40 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:40:40 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:40:40 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:40:49 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:40:50 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:40:50 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:40:50 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:40:50 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:40:50 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:40:50 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:41:27 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:41:28 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:41:28 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:41:28 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:41:29 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:41:30 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:41:34 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:41:34 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:41:34 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:41:34 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:41:34 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:41:35 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:41:35 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:41:35 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:41:35 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:41:35 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:41:36 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:41:36 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:41:36 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:41:36 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:41:40 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:41:40 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:41:40 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:41:40 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:41:41 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:41:41 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:41:41 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:41:41 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:41:52 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:41:52 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:41:52 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:41:52 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:41:53 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:41:53 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:41:53 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:41:53 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:41:55 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:41:55 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:41:55 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:41:55 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:41:55 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:41:55 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:41:55 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:41:55 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:44:04 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:44:04 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:44:04 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:44:04 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:44:05 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:44:07 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:44:07 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:44:07 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:44:29 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:44:29 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:44:29 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:44:29 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:44:29 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:44:33 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:44:33 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:44:33 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:44:43 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:44:43 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:44:43 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:44:43 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:44:46 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:44:46 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:44:46 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:44:46 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:46:51 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:46:51 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:46:51 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:46:51 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:46:54 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:46:54 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:46:54 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:46:54 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:47:08 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:47:08 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:47:08 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:47:08 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:47:09 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:47:09 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:47:09 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:47:09 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:47:14 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:47:14 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:47:14 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:47:14 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:47:14 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:47:14 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:47:14 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:47:14 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:47:36 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:47:36 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:47:36 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:47:36 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:47:38 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:47:38 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:47:38 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:47:38 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:47:57 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:47:57 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:47:57 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:47:57 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:47:58 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:47:59 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:47:59 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:47:59 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:48:00 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:48:00 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:48:00 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:48:00 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:48:01 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:48:01 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:48:01 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:48:01 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:48:03 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:48:03 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:48:03 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:48:03 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:48:04 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:48:04 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:48:04 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:48:04 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:48:06 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:48:06 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:48:06 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:48:06 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:48:08 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:48:08 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:48:08 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:48:08 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:48:09 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:48:09 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:48:09 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:48:09 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:48:10 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:48:10 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:48:10 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:48:11 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:48:12 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:48:12 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:48:12 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:48:12 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:48:13 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:48:13 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:48:13 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:48:13 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:48:14 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:48:14 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:48:14 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:48:14 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:48:16 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:48:16 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:48:16 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:48:16 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:48:18 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:48:18 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:48:18 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:48:18 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:48:21 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:48:21 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:48:21 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:48:21 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:48:31 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:48:31 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:48:31 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:48:31 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:48:32 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:48:33 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:48:33 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:48:33 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:49:03 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:49:03 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:49:03 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:49:03 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:49:37 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+4/29/2023 9:49:37 PM: Event: All the Users were received successfully from DB
+4/29/2023 9:49:37 PM: Event: Start retrieving all the Users from DB ('GetUsers' function in 'UsersController' class)
+4/29/2023 9:49:37 PM: Event: All the Users were received successfully from DB
+4/29/2023 9:49:37 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:49:37 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:49:37 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:49:37 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:49:41 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:49:41 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:49:41 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:49:41 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:49:43 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:49:43 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:49:43 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:49:43 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:49:44 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:49:45 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:49:45 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:49:45 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:49:46 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:49:46 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:49:46 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:49:46 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:49:49 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:49:49 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:49:49 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:49:49 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:51:21 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:51:21 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:51:21 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:51:21 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:51:22 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:51:22 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:51:22 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:51:22 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 9:51:31 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:51:31 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:51:31 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 9:51:31 PM: Event: 10 most popular News Items from the user categories were received successfully from DB
+4/29/2023 9:51:40 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:51:40 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:51:40 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:51:40 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:51:46 PM: Event: Started updating the News Item Link (Item ID = 365) in the DB ('UpdateNewsItemClickedLink' function in 'NewsItemsController' class)
+4/29/2023 9:51:46 PM: Event: A News Item Link with the ID: 365 updated successfully in the database
+4/29/2023 9:52:17 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:52:17 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:52:17 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:52:17 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:52:36 PM: Event: Started inserting a User categories for a user with the email: tomao360@gmail.com into the DB ('InsertUserCategoriesToDb' function in 'UsersController' class)
+4/29/2023 9:52:36 PM: Event: The User Categories for the user with the email: tomao360@gmail.com were inserted successfully into the database
+4/29/2023 9:52:36 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:52:36 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:52:36 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:52:36 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:52:48 PM: Event: Started updating the News Item Link (Item ID = 550) in the DB ('UpdateNewsItemClickedLink' function in 'NewsItemsController' class)
+4/29/2023 9:52:48 PM: Event: A News Item Link with the ID: 550 updated successfully in the database
+4/29/2023 9:53:08 PM: Event: Started updating the News Item Link (Item ID = 548) in the DB ('UpdateNewsItemClickedLink' function in 'NewsItemsController' class)
+4/29/2023 9:53:08 PM: Event: A News Item Link with the ID: 548 updated successfully in the database
+4/29/2023 9:55:40 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:55:40 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:55:40 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:55:40 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:55:54 PM: Event: Started inserting a User categories for a user with the email: tomao360@gmail.com into the DB ('InsertUserCategoriesToDb' function in 'UsersController' class)
+4/29/2023 9:55:54 PM: Event: The User Categories for the user with the email: tomao360@gmail.com were inserted successfully into the database
+4/29/2023 9:55:55 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:55:55 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:55:55 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:55:55 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:56:15 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:56:16 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:56:16 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:56:16 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:56:44 PM: Event: Started inserting a User categories for a user with the email: tomao360@gmail.com into the DB ('InsertUserCategoriesToDb' function in 'UsersController' class)
+4/29/2023 9:56:44 PM: Event: The User Categories for the user with the email: tomao360@gmail.com were inserted successfully into the database
+4/29/2023 9:56:44 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:56:44 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:56:44 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:56:45 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:57:26 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:57:27 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:57:27 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:57:27 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:57:33 PM: Event: Started inserting a User categories for a user with the email: tomao360@gmail.com into the DB ('InsertUserCategoriesToDb' function in 'UsersController' class)
+4/29/2023 9:57:33 PM: Event: The User Categories for the user with the email: tomao360@gmail.com were inserted successfully into the database
+4/29/2023 9:57:33 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:57:33 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:57:33 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:57:33 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:57:36 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:57:36 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:57:36 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:57:36 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:57:41 PM: Event: Started inserting a User categories for a user with the email: tomao360@gmail.com into the DB ('InsertUserCategoriesToDb' function in 'UsersController' class)
+4/29/2023 9:57:41 PM: Event: The User Categories for the user with the email: tomao360@gmail.com were inserted successfully into the database
+4/29/2023 9:57:41 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:57:41 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:57:41 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:57:41 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:58:07 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:58:08 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:58:08 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:58:08 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:58:16 PM: Event: Started inserting a User categories for a user with the email: tomao360@gmail.com into the DB ('InsertUserCategoriesToDb' function in 'UsersController' class)
+4/29/2023 9:58:16 PM: Event: The User Categories for the user with the email: tomao360@gmail.com were inserted successfully into the database
+4/29/2023 9:58:16 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:58:16 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:58:16 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:58:16 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:58:29 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:58:29 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:58:29 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 9:58:29 PM: Event: All the categories were received successfully from DB
+4/29/2023 9:58:36 PM: Event: Started inserting a User categories for a user with the email: tomao360@gmail.com into the DB ('InsertUserCategoriesToDb' function in 'UsersController' class)
+4/29/2023 9:58:36 PM: Event: The User Categories for the user with the email: tomao360@gmail.com were inserted successfully into the database
+4/29/2023 9:58:36 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:58:36 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 9:58:36 PM: Event: Start retrieving all the News Items for a user by User Email (Email - tomao360@gmail.com) from DB ('GetNewsItemsForUser' function in 'NewsItemsController' class)
+4/29/2023 9:58:36 PM: Event: All the News Items for a user by User Email (Email - tomao360@gmail.com) were received successfully from DB
+4/29/2023 10:01:03 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 10:01:05 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 10:01:05 PM: Exception:  System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at System.Data.SqlClient.SqlBuffer.get_String()
+   at NewsApp.Data.Sql.NewsItemSql.Get10MostPopularNewsItems(String userEmail) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\NewsItemSql.cs:line 268
+   at NewsApp.Entities.NewsItems.Get10MostPopularNewsItems(String userEmail) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsItems.cs:line 56
+   at NewsApp.MicroService.Controllers.NewsItemsController.GetMostPopularNewsItems(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\Controllers\NewsItemsController.cs:line 71-Data is Null. This method or property cannot be called on Null values.
+4/29/2023 10:01:05 PM: Exception:  System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at System.Data.SqlClient.SqlBuffer.get_String()
+   at NewsApp.Data.Sql.NewsItemSql.Get10MostPopularNewsItems(String userEmail) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\NewsItemSql.cs:line 268
+   at NewsApp.Entities.NewsItems.Get10MostPopularNewsItems(String userEmail) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsItems.cs:line 56
+   at NewsApp.MicroService.Controllers.NewsItemsController.GetMostPopularNewsItems(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\Controllers\NewsItemsController.cs:line 71-Data is Null. This method or property cannot be called on Null values.
+4/29/2023 10:01:05 PM: Exception:  System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at System.Data.SqlClient.SqlBuffer.get_String()
+   at NewsApp.Data.Sql.NewsItemSql.Get10MostPopularNewsItems(String userEmail) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\NewsItemSql.cs:line 268
+   at NewsApp.Entities.NewsItems.Get10MostPopularNewsItems(String userEmail) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsItems.cs:line 56
+   at NewsApp.MicroService.Controllers.NewsItemsController.GetMostPopularNewsItems(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\Controllers\NewsItemsController.cs:line 71-Data is Null. This method or property cannot be called on Null values.. Response ID = 24120f46-baf9-4566-83ba-8e1d971025a6
+4/29/2023 10:01:05 PM: Event: Start retrieving 10 most popular News Items from the user categories from DB ('GetMostPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 10:01:05 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 10:01:05 PM: Event: Start retrieving 10 random not popular News Items from the user categories from DB ('GetNotPopularNewsItems' function in 'NewsItemsController' class)
+4/29/2023 10:01:05 PM: Event: 10 random not popular News Items from the user categories were received successfully from DB
+4/29/2023 10:01:05 PM: Exception:  System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at System.Data.SqlClient.SqlBuffer.get_String()
+   at NewsApp.Data.Sql.NewsItemSql.Get10MostPopularNewsItems(String userEmail) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\NewsItemSql.cs:line 268
+   at NewsApp.Entities.NewsItems.Get10MostPopularNewsItems(String userEmail) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsItems.cs:line 56
+   at NewsApp.MicroService.Controllers.NewsItemsController.GetMostPopularNewsItems(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\Controllers\NewsItemsController.cs:line 71-Data is Null. This method or property cannot be called on Null values.
+4/29/2023 10:01:05 PM: Exception:  System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at System.Data.SqlClient.SqlBuffer.get_String()
+   at NewsApp.Data.Sql.NewsItemSql.Get10MostPopularNewsItems(String userEmail) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\NewsItemSql.cs:line 268
+   at NewsApp.Entities.NewsItems.Get10MostPopularNewsItems(String userEmail) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsItems.cs:line 56
+   at NewsApp.MicroService.Controllers.NewsItemsController.GetMostPopularNewsItems(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\Controllers\NewsItemsController.cs:line 71-Data is Null. This method or property cannot be called on Null values.
+4/29/2023 10:01:05 PM: Exception:  System.Data.SqlTypes.SqlNullValueException: Data is Null. This method or property cannot be called on Null values.
+   at System.Data.SqlClient.SqlBuffer.get_String()
+   at NewsApp.Data.Sql.NewsItemSql.Get10MostPopularNewsItems(String userEmail) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Data.Sql\NewsItemSql.cs:line 268
+   at NewsApp.Entities.NewsItems.Get10MostPopularNewsItems(String userEmail) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.Entities\NewsItems.cs:line 56
+   at NewsApp.MicroService.Controllers.NewsItemsController.GetMostPopularNewsItems(String email) in D:\Programming\Zionet\NewsApp_Project\C#-Server\NewsApp\NewsApp.MicroService\Controllers\NewsItemsController.cs:line 71-Data is Null. This method or property cannot be called on Null values.. Response ID = 13fe1954-9227-4897-92ab-bfeb3a72685c
+4/29/2023 10:01:05 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 10:01:06 PM: Event: All the categories were received successfully from DB
+4/29/2023 10:01:06 PM: Event: Start retrieving all the categories from DB ('GetCategories' function in 'NewsItemsController' class)
+4/29/2023 10:01:06 PM: Event: All the categories were received successfully from DB
+4/29/2023 10:01:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'מבזקי חדשות' category on the 'ynet' website into the database
+4/29/2023 10:01:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'בריאות' category on the '!וואלה' website into the database
+4/29/2023 10:01:47 PM: Event: Inserts a Data Table that contains 10 articles in the 'רכב' category on the 'מעריב' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'רכילות' category on the 'מעריב' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'חדשות מהארץ ומהעולם' category on the 'מעריב' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'ספורט' category on the '!וואלה' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'חדשות מהארץ ומהעולם' category on the 'ynet' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'מבזקי חדשות' category on the '!וואלה' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'בריאות' category on the 'ynet' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'צרכנות' category on the 'מעריב' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'מדע וסביבה' category on the 'ynet' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'חדשות מהארץ ומהעולם' category on the '!וואלה' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'אוכל' category on the 'ynet' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'ספורט' category on the 'ynet' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'צרכנות' category on the 'ynet' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'הורים' category on the 'ynet' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'רכב' category on the 'ynet' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'צרכנות' category on the 'גלובס' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'תרבות' category on the 'מעריב' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'דעות' category on the 'ynet' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'טכנולוגיה' category on the 'ynet' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'אוכל' category on the 'מעריב' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'כלכלה' category on the '!וואלה' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'הורים' category on the 'מעריב' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'טכנולוגיה' category on the '!וואלה' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'רכילות' category on the '!וואלה' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'כלכלה' category on the 'גלובס' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'תיירות' category on the 'ynet' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'תיירות' category on the 'מעריב' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'מדע וסביבה' category on the 'מעריב' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'ספורט' category on the 'מעריב' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'מבזקי חדשות' category on the 'מעריב' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'דעות' category on the '!וואלה' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'צרכנות' category on the '!וואלה' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'כלכלה' category on the 'ynet' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'רכב' category on the '!וואלה' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'תיירות' category on the '!וואלה' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'דעות' category on the 'גלובס' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'כלכלה' category on the 'מעריב' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'אוכל' category on the '!וואלה' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'תרבות' category on the 'ynet' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'טכנולוגיה' category on the 'גלובס' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'טכנולוגיה' category on the 'מעריב' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'בריאות' category on the 'מעריב' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'דעות' category on the 'מעריב' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'מדע וסביבה' category on the '!וואלה' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'רכב' category on the 'גלובס' website into the database
+4/29/2023 10:01:48 PM: Event: Inserts a Data Table that contains 10 articles in the 'תיירות' category on the 'גלובס' website into the database
+4/29/2023 10:01:49 PM: Event: Inserts a Data Table that contains 10 articles in the 'חדשות מהארץ ומהעולם' category on the 'גלובס' website into the database
+4/29/2023 10:01:49 PM: Event: Inserts a Data Table that contains 10 articles in the 'תרבות' category on the '!וואלה' website into the database
+4/29/2023 10:01:49 PM: Event: Inserts a Data Table that contains 10 articles in the 'הורים' category on the '!וואלה' website into the database
